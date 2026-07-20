@@ -1,2 +1,3 @@
 # RosettaBootcamp
-Code for ML &amp; Rosetta Intro Bootcamp 2026 at John Hopkins
+
+Code for ML & Rosetta Intro Bootcamp 2026 at John Hopkins

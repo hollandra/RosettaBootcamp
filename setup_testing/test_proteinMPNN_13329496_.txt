@@ -1,0 +1,35 @@
+--2026-07-16 11:38:36--  https://files.rcsb.org/download/1BC8.pdb
+Resolving files.rcsb.org (files.rcsb.org)... 52.84.127.54, 52.84.127.49, 52.84.127.51, ...
+Connecting to files.rcsb.org (files.rcsb.org)|52.84.127.54|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘1BC8.pdb’
+
+     0K .......... .......... .......... .......... .......... 27.6M
+    50K .......... .......... .......... .......... ..........  185M
+   100K .......... .......... .......... .......                182M=0.002s
+
+2026-07-16 11:38:36 (60.1 MB/s) - ‘1BC8.pdb’ saved [141183]
+
+/users/3/holla653/Code/ProteinMPNN/protein_mpnn_run.py:178: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(checkpoint_path, map_location=device)
+----------------------------------------
+chain_id_jsonl is NOT loaded
+----------------------------------------
+fixed_positions_jsonl is NOT loaded
+----------------------------------------
+pssm_jsonl is NOT loaded
+----------------------------------------
+omit_AA_jsonl is NOT loaded
+----------------------------------------
+bias_AA_jsonl is NOT loaded
+----------------------------------------
+tied_positions_jsonl is NOT loaded
+----------------------------------------
+bias by residue dictionary is not loaded, or not provided
+----------------------------------------
+----------------------------------------
+Number of edges: 48
+Training noise level: 0.2A
+Generating sequences for: 1BC8
+2 sequences of length 113 generated in 1.4269 seconds

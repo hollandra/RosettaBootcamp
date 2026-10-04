@@ -1,0 +1,29 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-40GB, 40960 MiB
+ESMC: transformer_engine is not installed; falling back to pure-PyTorch LayerNorm+Linear / LayerNorm+MLP. Outputs will differ numerically — measured on the unnormalized residual stream (before the final LayerNorm), ~O(10) max-diff in fp32 and ~O(100) in bf16; after the final LayerNorm these shrink to a few ULP and perplexity stays within rounding noise. Install with `pip install transformer-engine[pytorch]` to enable fused fp32-reduction LayerNorm.
+ESMC: neither xformers nor flash-attn is installed; falling back to PyTorch ``F.scaled_dot_product_attention``. The attention reduction order in bf16 differs from a fused kernel by ~1 bf16 ULP per attention block; compounded across the 80-block stack this reaches ~O(100) max-diff on the unnormalized residual stream. Install xformers (preferred) with `pip install xformers` for a fused attention kernel.
+ESMC: flash-attn rotary kernel not installed; falling back to pure-PyTorch RoPE. For faster GPU inference run `pip install flash-attn`.
+torch 2.13.0+cu130 cuda 13.0 gpu NVIDIA A100-SXM4-40GB
+🚨 No checkpoint found for ESMCForSequenceClassification.forward. Please add a `checkpoint` arg to `auto_docstring` or add one in ESMCConfig's docstring
+🚨 No checkpoint found for ESMCForTokenClassification.forward. Please add a `checkpoint` arg to `auto_docstring` or add one in ESMCConfig's docstring
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files:  17%|█▋        | 1/6 [00:47<03:55, 47.03s/it]Fetching 6 files: 100%|██████████| 6/6 [00:47<00:00,  7.84s/it]
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:00<00:04,  1.10it/s]Loading checkpoint shards:  33%|███▎      | 2/6 [00:01<00:03,  1.02it/s]Loading checkpoint shards:  50%|█████     | 3/6 [00:02<00:02,  1.05it/s]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:03<00:01,  1.05it/s]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:04<00:00,  1.10it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:04<00:00,  1.54it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:04<00:00,  1.25it/s]
+Invalid handle. Cannot load symbol cudnnGetVersion
+/var/spool/slurmd/job13437148/slurm_script: line 33: 3794392 Aborted                 python -  <<'PY'
+import torch
+from esm.models.esmfold2 import ProteinInput, StructurePredictionInput, ESMFold2InputBuilder
+from transformers.models.esmfold2.modeling_esmfold2 import ESMFold2Model
+
+print("torch", torch.__version__, "cuda", torch.version.cuda, "gpu", torch.cuda.get_device_name(0))
+
+model = ESMFold2Model.from_pretrained("biohub/ESMFold2", revision="6234905").cuda().eval()
+
+seq = "MKTAYIAKQRQISFVKSHFSRQLEERLGLIEVQAPILSRVGDGTQDNLSGAEKAVQVKVKALPDAQFEVVHSLAKWKR"
+spi = StructurePredictionInput(sequences=[ProteinInput(id="A", sequence=seq)])
+result = ESMFold2InputBuilder().fold(
+    model, spi, num_loops=3, num_sampling_steps=50, num_diffusion_samples=1, seed=0
+)
+open("esmfold2_test.cif", "w").write(result.complex.to_mmcif())
+print(f"done - pLDDT {float(result.plddt.mean()):.3f}  pTM {float(result.ptm):.3f}")
+PY
+

@@ -1,0 +1,7 @@
+[W interface.cpp:47] Warning: Loading nvfuser library failed with: Error in dlopen: libnvfuser_codegen.so: cannot open shared object file: No such file or directory (function LoadingNvfuserLibrary)
+/users/3/holla653/.conda/envs/esmfold/lib/python3.9/site-packages/lightning_fabric/__init__.py:29: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  __import__("pkg_resources").declare_namespace(__name__)
+Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to /users/3/holla653/.cache/torch/hub/checkpoints/esmfold_3B_v1.pt
+Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to /users/3/holla653/.cache/torch/hub/checkpoints/esm2_t36_3B_UR50D.pt
+Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to /users/3/holla653/.cache/torch/hub/checkpoints/esm2_t36_3B_UR50D-contact-regression.pt
+wrote esmfold_test.pdb

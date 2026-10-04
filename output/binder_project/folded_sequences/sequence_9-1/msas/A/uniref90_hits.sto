@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_A0A6P0HXD2/613-712 DE [subseq from] NB-ARC domain-containing protein n=2 Tax=unclassified Okeania TaxID=2634635 RepID=A0A6P0HXD2_9CYAN
+#=GS UniRef90_A0A6P0HXD2/896-923 DE [subseq from] NB-ARC domain-containing protein n=2 Tax=unclassified Okeania TaxID=2634635 RepID=A0A6P0HXD2_9CYAN
+#=GS UniRef90_Q8YWH7/741-793     DE [subseq from] Regulatory protein n=10 Tax=Nostocales TaxID=1161 RepID=Q8YWH7_NOSS1
+#=GS UniRef90_Q8YWH7/833-880     DE [subseq from] Regulatory protein n=10 Tax=Nostocales TaxID=1161 RepID=Q8YWH7_NOSS1
+#=GS UniRef90_Q8YWH7/893-987     DE [subseq from] Regulatory protein n=10 Tax=Nostocales TaxID=1161 RepID=Q8YWH7_NOSS1
+
+chain_A                             SELEEKAEKYKKEVIEEFKEKLPELLKEGEKSGDEEEFLKTLKQYIDGYAYKLQVLCSE-LTPEEQRRLGLEVKIELLKYAEEEFKKLGNEKLA--EELKKEREKAQKELAELEAK
+UniRef90_A0A6P0HXD2/613-712         -----QSEGYRAQVLSALAEKLPKLLPEALAAARQIQSEWFRAQVLSALADKLPELLPEALAAARQIRSNRELAKIIIALAEKLTPELLPEALAAAQQIREEEYR-----------
+UniRef90_A0A6P0HXD2/896-923         -----QSEKYRAEVLSALAEKLPEILPEAVAAA-----------------------------------------------------------------------------------
+UniRef90_Q8YWH7/741-793             -------EANRAEVLGSLSDKLPELLPEALAAAREIEFESSRAYILSSLADKLPELLPE-A-------------------------------------------------------
+UniRef90_Q8YWH7/833-880             -----EDEKYRAEALSSLADKLPELLPEALAAAREIEDEKYRNDALSSLANKL---------------------------------------------------------------
+UniRef90_Q8YWH7/893-987             ---EIKDEKYRAYILSSLAAKLPELLPEALAAAREIQFESSRAQALRSLADKFP----E-LLPEA---LAAAIEIQDEEYRAQALRSLA-DKLP--PELLPEVVAATRE-------
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx
+//

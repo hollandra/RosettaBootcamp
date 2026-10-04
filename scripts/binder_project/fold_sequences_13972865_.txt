@@ -1,0 +1,45 @@
+I0723 18:17:34.363063 140080775137088 templates.py:857] Using precomputed obsolete pdbs /common/software/install/manual/alphafold/data_dir_2.3.1-multimer/pdb_mmcif/obsolete.dat.
+I0723 18:17:34.465914 140080775137088 xla_bridge.py:353] Unable to initialize backend 'tpu_driver': NOT_FOUND: Unable to find driver in registry given worker: 
+I0723 18:17:34.644281 140080775137088 xla_bridge.py:353] Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: Host Interpreter CUDA
+I0723 18:17:34.644599 140080775137088 xla_bridge.py:353] Unable to initialize backend 'tpu': module 'jaxlib.xla_extension' has no attribute 'get_tpu_client'
+I0723 18:17:34.644688 140080775137088 xla_bridge.py:353] Unable to initialize backend 'plugin': xla_extension has no attributes named get_plugin_device_client. Compile TensorFlow with //tensorflow/compiler/xla/python:enable_plugin_device set to true (defaults to false) to enable this.
+I0723 18:17:37.369077 140080775137088 run_alphafold.py:386] Have 25 models: ['model_1_multimer_v3_pred_0', 'model_1_multimer_v3_pred_1', 'model_1_multimer_v3_pred_2', 'model_1_multimer_v3_pred_3', 'model_1_multimer_v3_pred_4', 'model_2_multimer_v3_pred_0', 'model_2_multimer_v3_pred_1', 'model_2_multimer_v3_pred_2', 'model_2_multimer_v3_pred_3', 'model_2_multimer_v3_pred_4', 'model_3_multimer_v3_pred_0', 'model_3_multimer_v3_pred_1', 'model_3_multimer_v3_pred_2', 'model_3_multimer_v3_pred_3', 'model_3_multimer_v3_pred_4', 'model_4_multimer_v3_pred_0', 'model_4_multimer_v3_pred_1', 'model_4_multimer_v3_pred_2', 'model_4_multimer_v3_pred_3', 'model_4_multimer_v3_pred_4', 'model_5_multimer_v3_pred_0', 'model_5_multimer_v3_pred_1', 'model_5_multimer_v3_pred_2', 'model_5_multimer_v3_pred_3', 'model_5_multimer_v3_pred_4']
+I0723 18:17:37.369252 140080775137088 run_alphafold.py:403] Using random seed 28597190920187750 for the data pipeline
+I0723 18:17:37.369502 140080775137088 run_alphafold.py:161] Predicting sequence_9-1
+I0723 18:17:37.403341 140080775137088 pipeline_multimer.py:210] Running monomer pipeline on chain A: rfd_more_backbones_9, id=1, T=0.1, seed=6, overall_confidence=0.3075, ligand_confidence=1.0000, seq_rec=0.0442
+I0723 18:17:37.403507 140080775137088 jackhmmer.py:133] Launching subprocess "/common/software/install/manual/alphafold/2.3.1-multimer/bin/jackhmmer -o /dev/null -A /tmp/tmp0kcm3wh9/output.sto --noali --F1 0.0005 --F2 5e-05 --F3 5e-07 --incE 0.0001 -E 0.0001 --cpu 8 -N 1 /tmp/tmp38f0gaci.fasta /common/software/install/manual/alphafold/data_dir_2.3.1-multimer/uniref90/uniref90.fasta"
+I0723 18:17:37.473912 140080775137088 utils.py:36] Started Jackhmmer (uniref90.fasta) query
+I0723 18:17:37.519937 140080775137088 utils.py:40] Finished Jackhmmer (uniref90.fasta) query in 0.046 seconds
+Traceback (most recent call last):
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/run_alphafold.py", line 432, in <module>
+    app.run(main)
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/lib/python3.8/site-packages/absl/app.py", line 312, in run
+    _run_main(main, args)
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/lib/python3.8/site-packages/absl/app.py", line 258, in _run_main
+    sys.exit(main(argv))
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/run_alphafold.py", line 408, in main
+    predict_structure(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/run_alphafold.py", line 172, in predict_structure
+    feature_dict = data_pipeline.process(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/pipeline_multimer.py", line 264, in process
+    chain_features = self._process_single_chain(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/pipeline_multimer.py", line 212, in _process_single_chain
+    chain_features = self._monomer_data_pipeline.process(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/pipeline.py", line 163, in process
+    jackhmmer_uniref90_result = run_msa_tool(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/pipeline.py", line 94, in run_msa_tool
+    result = msa_runner.query(input_fasta_path, max_sto_sequences)[0]  # pytype: disable=wrong-arg-count
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/tools/jackhmmer.py", line 170, in query
+    return self.query_multiple([input_fasta_path], max_sequences)[0]
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/tools/jackhmmer.py", line 181, in query_multiple
+    single_chunk_results.append([self._query_chunk(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/tools/jackhmmer.py", line 142, in _query_chunk
+    raise RuntimeError(
+RuntimeError: Jackhmmer failed
+stderr:
+
+Error: Parse failed (sequence file /tmp/tmp38f0gaci.fasta):
+Line 2: illegal character :
+
+
+

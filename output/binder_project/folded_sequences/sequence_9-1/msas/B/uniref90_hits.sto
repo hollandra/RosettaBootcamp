@@ -1,0 +1,1150 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_UPI001AD95186/5-97    DE [subseq from] Envelope protein E n=3 Tax=Flavivirus TaxID=11051 RepID=UPI001AD95186
+#=GS UniRef90_C0J6S8/247-339        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=C0J6S8_9FLAV
+#=GS UniRef90_A0A096YGS4/55-147     DE [subseq from] Envelope protein E (Fragment) n=21 Tax=Flavivirus TaxID=11051 RepID=A0A096YGS4_9FLAV
+#=GS UniRef90_C3V005/586-678        DE [subseq from] Core protein n=200 Tax=Flavivirus TaxID=11051 RepID=C3V005_9FLAV
+#=GS UniRef90_B1PKB2/245-337        DE [subseq from] Envelope protein E (Fragment) n=2 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=B1PKB2_9FLAV
+#=GS UniRef90_UPI00100D9BEC/303-395 DE [subseq from] Envelope protein E n=1 Tax=Tick-borne encephalitis virus European subtype (strain Neudoerfl) TaxID=11088 RepID=UPI00100D9BEC
+#=GS UniRef90_A0A2D2AKR4/580-672    DE [subseq from] Core protein (Fragment) n=2 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=A0A2D2AKR4_9FLAV
+#=GS UniRef90_I1WED5/101-193        DE [subseq from] Envelope protein E (Fragment) n=5 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=I1WED5_9FLAV
+#=GS UniRef90_D0VBA8/217-309        DE [subseq from] Envelope protein E (Fragment) n=10 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=D0VBA8_9FLAV
+#=GS UniRef90_P14336/583-675        DE [subseq from] Genome polyprotein n=1578 Tax=Flavivirus TaxID=11051 RepID=POLG_TBEVW
+#=GS UniRef90_A0A4Y1PRQ8/583-675    DE [subseq from] Core protein (Fragment) n=7 Tax=Flaviviridae TaxID=11050 RepID=A0A4Y1PRQ8_9FLAV
+#=GS UniRef90_A0A346FW82/583-675    DE [subseq from] Core protein (Fragment) n=8 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=A0A346FW82_9FLAV
+#=GS UniRef90_A0A4P8YTF2/583-675    DE [subseq from] Core protein (Fragment) n=36 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=A0A4P8YTF2_9FLAV
+#=GS UniRef90_M9QQQ7/247-339        DE [subseq from] Envelope protein E (Fragment) n=81 Tax=Flavivirus TaxID=11051 RepID=M9QQQ7_9FLAV
+#=GS UniRef90_Q88474/303-395        DE [subseq from] Envelope protein E (Fragment) n=26 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=Q88474_9FLAV
+#=GS UniRef90_I1VEB1/584-675        DE [subseq from] Core protein n=1 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=I1VEB1_9FLAV
+#=GS UniRef90_UPI0000D644F8/10-102  DE [subseq from] Genome polyprotein n=1 Tax=Langat virus TaxID=11085 RepID=UPI0000D644F8
+#=GS UniRef90_P35764/303-394        DE [subseq from] Genome polyprotein (Fragment) n=424 Tax=Flavivirus TaxID=11051 RepID=POLG_LIV31
+#=GS UniRef90_Q0MUU1/303-395        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Langat virus TaxID=11085 RepID=Q0MUU1_9FLAV
+#=GS UniRef90_P29837/583-675        DE [subseq from] Genome polyprotein n=21 Tax=Flavivirus TaxID=11051 RepID=POLG_LANVT
+#=GS UniRef90_UPI001AD95103/7-100   DE [subseq from] Envelope protein domain III n=1 Tax=Deer tick virus TaxID=58535 RepID=UPI001AD95103
+#=GS UniRef90_Q8VBM6/303-396        DE [subseq from] Envelope protein E (Fragment) n=16 Tax=Powassan virus TaxID=11083 RepID=Q8VBM6_9FLAV
+#=GS UniRef90_Q91LY1/581-674        DE [subseq from] Core protein (Fragment) n=2 Tax=Powassan virus TaxID=11083 RepID=Q91LY1_9FLAV
+#=GS UniRef90_Q82951/584-676        DE [subseq from] Core protein (Fragment) n=2 Tax=Kyasanur forest disease virus TaxID=33743 RepID=Q82951_KFDV
+#=GS UniRef90_Q04538/581-674        DE [subseq from] Genome polyprotein n=131 Tax=Powassan virus TaxID=11083 RepID=POLG_POWVL
+#=GS UniRef90_A0A218MY58/317-409    DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Kyasanur forest disease virus TaxID=33743 RepID=A0A218MY58_KFDV
+#=GS UniRef90_Q91B85/584-676        DE [subseq from] Genome polyprotein n=220 Tax=Flavivirus TaxID=11051 RepID=POLG_ALKV
+#=GS UniRef90_A1X3E5/47-139         DE [subseq from] Core protein (Fragment) n=1 Tax=Alkhumra hemorrhagic fever virus TaxID=172148 RepID=A1X3E5_ALKV
+#=GS UniRef90_A0A0D5BTQ2/321-406    DE [subseq from] Envelope protein E (Fragment) n=2 Tax=Kyasanur forest disease virus TaxID=33743 RepID=A0A0D5BTQ2_KFDV
+#=GS UniRef90_Q5G264/582-675        DE [subseq from] Core protein n=13 Tax=Karshi virus TaxID=64287 RepID=Q5G264_9FLAV
+#=GS UniRef90_G9DDB7/165-246        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Alkhumra hemorrhagic fever virus TaxID=172148 RepID=G9DDB7_ALKV
+#=GS UniRef90_A0EKU2/583-676        DE [subseq from] Core protein n=2 Tax=Gadgets Gully virus TaxID=64307 RepID=A0EKU2_9FLAV
+#=GS UniRef90_A0EKU6/584-676        DE [subseq from] Core protein n=2 Tax=Royal Farm virus TaxID=64288 RepID=A0EKU6_9FLAV
+#=GS UniRef90_Q91KZ1/185-274        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Gadgets Gully virus TaxID=64307 RepID=Q91KZ1_9FLAV
+#=GS UniRef90_Q91KX6/172-265        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Meaban virus TaxID=35279 RepID=Q91KX6_9FLAV
+#=GS UniRef90_A0EKU1/572-667        DE [subseq from] Core protein n=5 Tax=Flavivirus TaxID=11051 RepID=A0EKU1_9FLAV
+#=GS UniRef90_A0EKU3/569-662        DE [subseq from] Core protein n=3 Tax=Kadam virus TaxID=64310 RepID=A0EKU3_9FLAV
+#=GS UniRef90_W5VRZ2/572-666        DE [subseq from] Core protein n=2 Tax=Kama virus TaxID=1456752 RepID=W5VRZ2_9FLAV
+#=GS UniRef90_A0EKU7/572-667        DE [subseq from] Core protein n=2 Tax=Saumarez Reef virus TaxID=40012 RepID=A0EKU7_9FLAV
+#=GS UniRef90_W5VK97/573-668        DE [subseq from] Core protein n=6 Tax=Tyuleniy virus TaxID=40004 RepID=W5VK97_9FLAV
+#=GS UniRef90_A0A088MWA0/223-257    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=A0A088MWA0_9FLAV
+#=GS UniRef90_A0A7R7E0K9/564-659    DE [subseq from] Polyprotein n=1 Tax=Mpulungu flavivirus TaxID=2775126 RepID=A0A7R7E0K9_9FLAV
+#=GS UniRef90_A0A0C4VYW6/569-661    DE [subseq from] Core protein n=5 Tax=Flaviviridae TaxID=11050 RepID=A0A0C4VYW6_9FLAV
+#=GS UniRef90_A0A0M4MYM9/226-256    DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Tick-borne encephalitis virus TaxID=11084 RepID=A0A0M4MYM9_9FLAV
+#=GS UniRef90_Q91KZ2/191-287        DE [subseq from] Envelope protein E (Fragment) n=2 Tax=Flavivirus TaxID=11051 RepID=Q91KZ2_9FLAV
+#=GS UniRef90_Q8QL64/567-657        DE [subseq from] Core protein n=16 Tax=Modoc virus TaxID=64300 RepID=Q8QL64_9FLAV
+#=GS UniRef90_Q9J9C2/567-659        DE [subseq from] Core protein n=16 Tax=Apoi virus TaxID=64280 RepID=Q9J9C2_9FLAV
+#=GS UniRef90_Q91KY0/177-260        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Edge Hill virus TaxID=64296 RepID=Q91KY0_EHV
+#=GS UniRef90_A0A2P1C6P4/17-113     DE [subseq from] Envelope glycoprotein (Fragment) n=5 Tax=Japanese encephalitis virus TaxID=11072 RepID=A0A2P1C6P4_9FLAV
+#=GS UniRef90_G4XKW9/68-164         DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Usutu virus TaxID=64286 RepID=G4XKW9_USUV
+#=GS UniRef90_A0A0C4W3V9/568-658    DE [subseq from] Core protein n=4 Tax=Jutiapa virus TaxID=64299 RepID=A0A0C4W3V9_9FLAV
+#=GS UniRef90_A0A410UD31/587-682    DE [subseq from] Core protein n=1 Tax=Yokose virus TaxID=64294 RepID=A0A410UD31_9FLAV
+#=GS UniRef90_A0A097ZPD7/232-328    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=A0A097ZPD7_9FLAV
+#=GS UniRef90_Q98118/300-396        DE [subseq from] Envelope protein E (Fragment) n=631 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q98118_9FLAV
+#=GS UniRef90_V5TAS6/101-189        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Saint Louis encephalitis virus TaxID=11080 RepID=V5TAS6_9FLAV
+#=GS UniRef90_A0A2S0RQS6/590-686    DE [subseq from] Core protein n=29 Tax=Flavivirus TaxID=11051 RepID=A0A2S0RQS6_9FLAV
+#=GS UniRef90_A0A0G4DCZ0/439-535    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=A0A0G4DCZ0_9FLAV
+#=GS UniRef90_A0A7D5C2U9/300-396    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=A0A7D5C2U9_9FLAV
+#=GS UniRef90_Q8JJZ3/564-656        DE [subseq from] Core protein n=18 Tax=Montana myotis leukoencephalitis virus TaxID=64312 RepID=Q8JJZ3_9FLAV
+#=GS UniRef90_C8XPB2/577-661        DE [subseq from] Genome polyprotein n=12 Tax=Edge Hill virus TaxID=64296 RepID=POLG_EHV
+#=GS UniRef90_B6C6W4/301-389        DE [subseq from] Envelope protein E (Fragment) n=77 Tax=Saint Louis encephalitis virus TaxID=11080 RepID=B6C6W4_9FLAV
+#=GS UniRef90_A0A650AXT6/438-534    DE [subseq from] Envelope protein E (Fragment) n=10 Tax=Usutu virus TaxID=64286 RepID=A0A650AXT6_USUV
+#=GS UniRef90_Q82875/594-690        DE [subseq from] Core protein (Fragment) n=39 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q82875_9FLAV
+#=GS UniRef90_A0A516TZ99/259-347    DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Usutu virus TaxID=64286 RepID=A0A516TZ99_USUV
+#=GS UniRef90_A8B3J1/346-443        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Murray Valley encephalitis virus TaxID=11079 RepID=A8B3J1_9FLAV
+#=GS UniRef90_P0DOH8/594-690        DE [subseq from] Structural polyprotein n=7 Tax=Japanese encephalitis virus TaxID=11072 RepID=POLS_JAEVJ
+#=GS UniRef90_UPI00017615F2/11-104  DE [subseq from] Envelope protein E n=2 Tax=root TaxID=1 RepID=UPI00017615F2
+#=GS UniRef90_Q76BX7/195-284        DE [subseq from] Envelope protein E (Fragment) n=10 Tax=Tembusu virus TaxID=64293 RepID=Q76BX7_9FLAV
+#=GS UniRef90_A0A516TZ73/259-347    DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Usutu virus TaxID=64286 RepID=A0A516TZ73_USUV
+#=GS UniRef90_P14403/522-618        DE [subseq from] Genome polyprotein (Fragment) n=3 Tax=Japanese encephalitis virus TaxID=11072 RepID=POLG_JAEVN
+#=GS UniRef90_UPI00003BECBC/10-107  DE [subseq from] envelope glycoprotein n=2 Tax=West Nile virus TaxID=11082 RepID=UPI00003BECBC
+#=GS UniRef90_A0A067Z1N8/593-689    DE [subseq from] Core protein (Fragment) n=6 Tax=Usutu virus TaxID=64286 RepID=A0A067Z1N8_USUV
+#=GS UniRef90_H9BYP4/594-690        DE [subseq from] Core protein n=2 Tax=Japanese encephalitis virus TaxID=11072 RepID=H9BYP4_9FLAV
+#=GS UniRef90_A0A0T7B4R0/468-565    DE [subseq from] Envelope protein E (Fragment) n=85 Tax=Murray Valley encephalitis virus TaxID=11079 RepID=A0A0T7B4R0_9FLAV
+#=GS UniRef90_Q7TG41/519-607        DE [subseq from] Core protein (Fragment) n=1 Tax=Saint Louis encephalitis virus TaxID=11080 RepID=Q7TG41_9FLAV
+#=GS UniRef90_P27395/594-690        DE [subseq from] Genome polyprotein n=1771 Tax=Japanese encephalitis virus TaxID=11072 RepID=POLG_JAEV1
+#=GS UniRef90_A0A6B9VR30/593-690    DE [subseq from] Core protein n=3 Tax=Murray Valley encephalitis virus TaxID=11079 RepID=A0A6B9VR30_9FLAV
+#=GS UniRef90_Q7T918/589-684        DE [subseq from] Core protein n=5 Tax=Yokose virus TaxID=64294 RepID=Q7T918_9FLAV
+#=GS UniRef90_Q9JAD5/562-654        DE [subseq from] Core protein n=16 Tax=Rio Bravo virus TaxID=64285 RepID=Q9JAD5_9FLAV
+#=GS UniRef90_B8R6B9/587-678        DE [subseq from] Core protein n=2 Tax=Flavivirus TaxID=11051 RepID=B8R6B9_9FLAV
+#=GS UniRef90_Q32ZD8/582-678        DE [subseq from] Core protein n=10 Tax=Iguape virus TaxID=64308 RepID=Q32ZD8_9FLAV
+#=GS UniRef90_Q32ZD6/587-670        DE [subseq from] Core protein n=5 Tax=Kedougou virus TaxID=64311 RepID=Q32ZD6_9FLAV
+#=GS UniRef90_Q9WN82/190-283        DE [subseq from] Envelope protein E (Fragment) n=5 Tax=Yellow fever virus TaxID=11089 RepID=Q9WN82_9FLAV
+#=GS UniRef90_B5U127/205-301        DE [subseq from] Envelope protein E (Fragment) n=4 Tax=West Nile virus TaxID=11082 RepID=B5U127_WNV
+#=GS UniRef90_P05769/593-690        DE [subseq from] Genome polyprotein n=133 Tax=Murray Valley encephalitis virus TaxID=11079 RepID=POLG_MVEV5
+#=GS UniRef90_A0A0B7JKQ7/51-147     DE [subseq from] Envelope protein E (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A0B7JKQ7_WNV
+#=GS UniRef90_A0A1J0RKC4/589-677    DE [subseq from] Core protein n=1 Tax=Saint Louis encephalitis virus TaxID=11080 RepID=A0A1J0RKC4_9FLAV
+#=GS UniRef90_P09732/589-677        DE [subseq from] Genome polyprotein (Fragment) n=218 Tax=Saint Louis encephalitis virus TaxID=11080 RepID=POLG_STEVM
+#=GS UniRef90_A0A0N9BB48/88-184     DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Usutu virus TaxID=64286 RepID=A0A0N9BB48_USUV
+#=GS UniRef90_UPI0006B28D63/587-683 DE [subseq from] truncated polyprotein NS1 prime n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0006B28D63
+#=GS UniRef90_Q5WPU5/593-689        DE [subseq from] Genome polyprotein n=607 Tax=Flavivirus TaxID=11051 RepID=POLG_USUV
+#=GS UniRef90_A0A0H3WGP0/301-397    DE [subseq from] Envelope protein E (Fragment) n=73 Tax=Flavivirus TaxID=11051 RepID=A0A0H3WGP0_9FLAV
+#=GS UniRef90_K0BRZ6/590-681        DE [subseq from] Core protein n=6 Tax=Ntaya virus TaxID=64292 RepID=K0BRZ6_9FLAV
+#=GS UniRef90_G1CRV4/588-684        DE [subseq from] Core protein n=238 Tax=Flavivirus TaxID=11051 RepID=G1CRV4_9FLAV
+#=GS UniRef90_Q1X915/408-501        DE [subseq from] Envelope protein E (Fragment) n=40 Tax=Yellow fever virus TaxID=11089 RepID=Q1X915_9FLAV
+#=GS UniRef90_P06935/587-683        DE [subseq from] Genome polyprotein n=4057 Tax=West Nile virus TaxID=11082 RepID=POLG_WNV
+#=GS UniRef90_D0VF43/289-382        DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Yellow fever virus TaxID=11089 RepID=D0VF43_9FLAV
+#=GS UniRef90_UPI0000E69E2F/301-397 DE [subseq from] Envelope glycoprotein n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0000E69E2F
+#=GS UniRef90_X4YHC9/301-397        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=X4YHC9_WNV
+#=GS UniRef90_P29165/582-675        DE [subseq from] Genome polyprotein (Fragment) n=1 Tax=Yellow fever virus (isolate Peru/1899/1981) TaxID=31641 RepID=POLG_YEFV8
+#=GS UniRef90_A1BY40/325-421        DE [subseq from] Envelope protein E (Fragment) n=97 Tax=West Nile virus TaxID=11082 RepID=A1BY40_WNV
+#=GS UniRef90_W8P1R9/75-170         DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Sokoluk virus TaxID=64317 RepID=W8P1R9_9FLAV
+#=GS UniRef90_A5YBL1/301-392        DE [subseq from] Envelope protein E (Fragment) n=6 Tax=Ilheus virus TaxID=59563 RepID=A5YBL1_ILHV
+#=GS UniRef90_I3VPR6/185-281        DE [subseq from] Envelope protein E (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=I3VPR6_WNV
+#=GS UniRef90_D6MT59/591-682        DE [subseq from] Core protein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D6MT59_WNV
+#=GS UniRef90_P03314/582-675        DE [subseq from] Genome polyprotein n=459 Tax=Yellow fever virus TaxID=11089 RepID=POLG_YEFV1
+#=GS UniRef90_A0A0F7YYG9/238-322    DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Duck Tembusu virus TaxID=1399582 RepID=A0A0F7YYG9_9FLAV
+#=GS UniRef90_P89915/582-675        DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=P89915_9FLAV
+#=GS UniRef90_D3X888/572-668        DE [subseq from] Core protein (Fragment) n=37 Tax=West Nile virus TaxID=11082 RepID=D3X888_WNV
+#=GS UniRef90_A0A067Z140/584-680    DE [subseq from] Core protein (Fragment) n=40 Tax=West Nile virus TaxID=11082 RepID=A0A067Z140_WNV
+#=GS UniRef90_K9L2G3/591-687        DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=K9L2G3_WNV
+#=GS UniRef90_V5JDD9/584-680        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JDD9_WNV
+#=GS UniRef90_V5JD65/584-680        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JD65_WNV
+#=GS UniRef90_V5JD62/584-680        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JD62_WNV
+#=GS UniRef90_B5U2T6/590-686        DE [subseq from] Core protein n=65 Tax=West Nile virus TaxID=11082 RepID=B5U2T6_WNV
+#=GS UniRef90_V5JD61/584-680        DE [subseq from] Core protein (Fragment) n=7 Tax=West Nile virus TaxID=11082 RepID=V5JD61_WNV
+#=GS UniRef90_V5JD69/584-680        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JD69_WNV
+#=GS UniRef90_V5JD58/584-680        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JD58_WNV
+#=GS UniRef90_Q91KY5/183-274        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Ilheus virus TaxID=59563 RepID=Q91KY5_ILHV
+#=GS UniRef90_D3X8D8/2-95           DE [subseq from] Polyprotein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D3X8D8_WNV
+#=GS UniRef90_A0A222LPT5/13-109     DE [subseq from] Flavivirin protease NS2B regulatory subunit (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A222LPT5_WNV
+#=GS UniRef90_A0A2S0T071/582-675    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S0T071_9FLAV
+#=GS UniRef90_A0A1B1WVI7/591-682    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVI7_WNV
+#=GS UniRef90_A0A1B1WUN2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUN2_WNV
+#=GS UniRef90_A0A1B1WW47/591-687    DE [subseq from] Core protein n=214 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW47_WNV
+#=GS UniRef90_Q82881/14-78          DE [subseq from] Envelope protein (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q82881_9FLAV
+#=GS UniRef90_A0A3G5MYN6/565-658    DE [subseq from] Core protein (Fragment) n=94 Tax=Yellow fever virus TaxID=11089 RepID=A0A3G5MYN6_9FLAV
+#=GS UniRef90_A0A2S1IYJ8/581-674    DE [subseq from] Core protein (Fragment) n=13 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S1IYJ8_9FLAV
+#=GS UniRef90_A0A2S1IYK0/574-667    DE [subseq from] Core protein (Fragment) n=3 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S1IYK0_9FLAV
+#=GS UniRef90_A0A5J6REC3/574-667    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6REC3_9FLAV
+#=GS UniRef90_D7RX37/591-687        DE [subseq from] Core protein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D7RX37_WNV
+#=GS UniRef90_A0A451FR09/591-687    DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A451FR09_WNV
+#=GS UniRef90_A0A346G7J7/438-531    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A346G7J7_9FLAV
+#=GS UniRef90_A0A7G4RNE0/574-667    DE [subseq from] Core protein (Fragment) n=2 Tax=Yellow fever virus TaxID=11089 RepID=A0A7G4RNE0_9FLAV
+#=GS UniRef90_A0A2R3XYA7/582-675    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A2R3XYA7_9FLAV
+#=GS UniRef90_A0A5J6RFT9/438-531    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6RFT9_9FLAV
+#=GS UniRef90_A0A2S1IYI9/574-667    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S1IYI9_9FLAV
+#=GS UniRef90_A0A678XIM8/574-667    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A678XIM8_9FLAV
+#=GS UniRef90_A0A2S1IYJ2/581-674    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S1IYJ2_9FLAV
+#=GS UniRef90_A0A2S1IYI0/581-674    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S1IYI0_9FLAV
+#=GS UniRef90_A0A1B1WUB6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUB6_WNV
+#=GS UniRef90_W8DX21/300-383        DE [subseq from] Envelope protein E (Fragment) n=3 Tax=Chaoyang virus TaxID=631267 RepID=W8DX21_9FLAV
+#=GS UniRef90_C1KC23/300-384        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Chaoyang virus TaxID=631267 RepID=C1KC23_9FLAV
+#=GS UniRef90_A0A1B1WU53/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU53_WNV
+#=GS UniRef90_A0A2S1IYG6/581-674    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A2S1IYG6_9FLAV
+#=GS UniRef90_A0A0C4PNF3/580-675    DE [subseq from] Core protein n=5 Tax=Sokoluk virus TaxID=64317 RepID=A0A0C4PNF3_9FLAV
+#=GS UniRef90_A0A1B1WU71/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU71_WNV
+#=GS UniRef90_C8XPB7/566-650        DE [subseq from] Core protein n=3 Tax=Uganda S virus TaxID=64297 RepID=C8XPB7_9FLAV
+#=GS UniRef90_A0A1S5WLR8/3-99       DE [subseq from] Envelope protein (Fragment) n=3 Tax=Zika virus TaxID=64320 RepID=A0A1S5WLR8_ZIKV
+#=GS UniRef90_A0A3R5SMS2/211-307    DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5SMS2_WNV
+#=GS UniRef90_A0A0A0P7R9/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A0A0P7R9_WNV
+#=GS UniRef90_A0A5J6RIP3/438-530    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6RIP3_9FLAV
+#=GS UniRef90_A0A3R5VRA2/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A3R5VRA2_WNV
+#=GS UniRef90_A0A3R5SKU5/591-687    DE [subseq from] Core protein n=4 Tax=West Nile virus TaxID=11082 RepID=A0A3R5SKU5_WNV
+#=GS UniRef90_A0A1B1WWY4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWY4_WNV
+#=GS UniRef90_A0A1B1WWP6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWP6_WNV
+#=GS UniRef90_A0A067ZS69/587-683    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A067ZS69_WNV
+#=GS UniRef90_A0A3R5SIT0/591-687    DE [subseq from] Core protein n=6 Tax=West Nile virus TaxID=11082 RepID=A0A3R5SIT0_WNV
+#=GS UniRef90_A0A1B1WU59/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU59_WNV
+#=GS UniRef90_A0A1B1WV85/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV85_WNV
+#=GS UniRef90_A0A1B1WVA3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVA3_WNV
+#=GS UniRef90_A0A1B1WU15/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU15_WNV
+#=GS UniRef90_A0A1B1WVP4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVP4_WNV
+#=GS UniRef90_A0A1B1WTZ4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTZ4_WNV
+#=GS UniRef90_A0A1B1WUE0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUE0_WNV
+#=GS UniRef90_A0A1B1WX37/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX37_WNV
+#=GS UniRef90_A0A3R5SII4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5SII4_WNV
+#=GS UniRef90_A0A1B1WX08/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX08_WNV
+#=GS UniRef90_A0A1B1WVH2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVH2_WNV
+#=GS UniRef90_A0A1B1WW23/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW23_WNV
+#=GS UniRef90_A0A1B1WW90/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW90_WNV
+#=GS UniRef90_A0A1B1WUC1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUC1_WNV
+#=GS UniRef90_A0A1B1WX19/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX19_WNV
+#=GS UniRef90_A0A1B1WWI2/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWI2_WNV
+#=GS UniRef90_A0A1B1WU12/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU12_WNV
+#=GS UniRef90_A0A1B1WWF4/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWF4_WNV
+#=GS UniRef90_A0A1B1WW67/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW67_WNV
+#=GS UniRef90_A0A1B1WUX0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUX0_WNV
+#=GS UniRef90_A0A1B1WVE4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVE4_WNV
+#=GS UniRef90_A0A1B1WU08/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU08_WNV
+#=GS UniRef90_A0A1B1WV38/591-687    DE [subseq from] Core protein n=4 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV38_WNV
+#=GS UniRef90_A0A1B1WUG3/591-687    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUG3_WNV
+#=GS UniRef90_A0A1B1WV96/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV96_WNV
+#=GS UniRef90_A0A1B1WV08/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV08_WNV
+#=GS UniRef90_A0A1B1WWT1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWT1_WNV
+#=GS UniRef90_A0A1B1WUX6/591-687    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUX6_WNV
+#=GS UniRef90_A0A1B1WUS5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUS5_WNV
+#=GS UniRef90_A0A1B1WWW0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWW0_WNV
+#=GS UniRef90_A0A1B1WUY0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUY0_WNV
+#=GS UniRef90_UPI0007AA7DB9/591-687 DE [subseq from] truncated polyprotein WARF4 n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0007AA7DB9
+#=GS UniRef90_A0A1B1WTW6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTW6_WNV
+#=GS UniRef90_A0A1B1WU48/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU48_WNV
+#=GS UniRef90_A0A1B1WV98/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV98_WNV
+#=GS UniRef90_A0A1B1WTV4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTV4_WNV
+#=GS UniRef90_A0A1B1WWQ9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWQ9_WNV
+#=GS UniRef90_A0A1B1WVM6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVM6_WNV
+#=GS UniRef90_A0A1B1WVD2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVD2_WNV
+#=GS UniRef90_A0A1B1WUT4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUT4_WNV
+#=GS UniRef90_A0A1B1WVU0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVU0_WNV
+#=GS UniRef90_A0A1B1WXD4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXD4_WNV
+#=GS UniRef90_A0A1B1WX42/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX42_WNV
+#=GS UniRef90_A0A1B1WW93/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW93_WNV
+#=GS UniRef90_A0A1B1WV84/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV84_WNV
+#=GS UniRef90_A0A1B1WWC1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWC1_WNV
+#=GS UniRef90_A0A1B1WWF0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWF0_WNV
+#=GS UniRef90_A0A1B1WUX9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUX9_WNV
+#=GS UniRef90_A0A1B1WU94/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU94_WNV
+#=GS UniRef90_A0A1B1WTX1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTX1_WNV
+#=GS UniRef90_A0A1B1WUL8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUL8_WNV
+#=GS UniRef90_A0A1B1WW98/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW98_WNV
+#=GS UniRef90_A0A1B1WWW4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWW4_WNV
+#=GS UniRef90_A0A1B1WTT6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTT6_WNV
+#=GS UniRef90_A0A1B1WTZ6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTZ6_WNV
+#=GS UniRef90_A0A1B1WUR6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUR6_WNV
+#=GS UniRef90_A0A1B1WUG1/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUG1_WNV
+#=GS UniRef90_A0A1B1WW63/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW63_WNV
+#=GS UniRef90_A0A1B1WUL1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUL1_WNV
+#=GS UniRef90_A0A1B1WUV6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUV6_WNV
+#=GS UniRef90_A0A1B1WWC4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWC4_WNV
+#=GS UniRef90_A0A1B1WXA0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXA0_WNV
+#=GS UniRef90_A0A1B1WX95/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX95_WNV
+#=GS UniRef90_A0A1B1WWA3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWA3_WNV
+#=GS UniRef90_A0A1B1WVA5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVA5_WNV
+#=GS UniRef90_A0A1B1WUR3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUR3_WNV
+#=GS UniRef90_A0A1B1WWL0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWL0_WNV
+#=GS UniRef90_A0A1B1WWP1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWP1_WNV
+#=GS UniRef90_A0A1B1WV01/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV01_WNV
+#=GS UniRef90_A0A1B1WWH5/591-687    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWH5_WNV
+#=GS UniRef90_A0A1B1WW60/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW60_WNV
+#=GS UniRef90_A0A1B1WVE8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVE8_WNV
+#=GS UniRef90_A0A1B1WV99/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV99_WNV
+#=GS UniRef90_A0A1B1WWS5/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWS5_WNV
+#=GS UniRef90_A0A1B1WV06/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV06_WNV
+#=GS UniRef90_A0A1B1WV55/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV55_WNV
+#=GS UniRef90_A0A1B1WVI6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVI6_WNV
+#=GS UniRef90_A0A1B1WU31/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU31_WNV
+#=GS UniRef90_A0A1B1WX96/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX96_WNV
+#=GS UniRef90_A0A1B1WXC8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXC8_WNV
+#=GS UniRef90_A0A1B1WU54/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU54_WNV
+#=GS UniRef90_A0A1B1WWF5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWF5_WNV
+#=GS UniRef90_A0A1B1WXG2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXG2_WNV
+#=GS UniRef90_A0A1B1WV24/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV24_WNV
+#=GS UniRef90_A0A1B1WVH5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVH5_WNV
+#=GS UniRef90_A0A1B1WVX9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVX9_WNV
+#=GS UniRef90_A0A1B1WWN7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWN7_WNV
+#=GS UniRef90_A0A1B1WW88/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW88_WNV
+#=GS UniRef90_A0A1B1WVQ7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVQ7_WNV
+#=GS UniRef90_A0A1B1WW87/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW87_WNV
+#=GS UniRef90_A0A1B1WTU0/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTU0_WNV
+#=GS UniRef90_A0A1B1WWT5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWT5_WNV
+#=GS UniRef90_A0A1B1WUW8/591-687    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUW8_WNV
+#=GS UniRef90_A0A1B1WVL8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVL8_WNV
+#=GS UniRef90_A0A1B1WU61/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU61_WNV
+#=GS UniRef90_A0A1B1WWP5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWP5_WNV
+#=GS UniRef90_A0A1B1WTR1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTR1_WNV
+#=GS UniRef90_A0A1B1WUL0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUL0_WNV
+#=GS UniRef90_A0A1B1WTT4/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTT4_WNV
+#=GS UniRef90_A0A1B1WX16/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX16_WNV
+#=GS UniRef90_A0A1B1WW55/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW55_WNV
+#=GS UniRef90_A0A1B1WWE7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWE7_WNV
+#=GS UniRef90_A0A1B1WVY5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVY5_WNV
+#=GS UniRef90_A0A1B1WUN8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUN8_WNV
+#=GS UniRef90_A0A1B1WTM6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTM6_WNV
+#=GS UniRef90_A0A1B1WUA2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUA2_WNV
+#=GS UniRef90_A0A1B1WX46/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX46_WNV
+#=GS UniRef90_A0A1B1WW91/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW91_WNV
+#=GS UniRef90_A0A1B1WVI3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVI3_WNV
+#=GS UniRef90_A0A1B1WUS1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUS1_WNV
+#=GS UniRef90_A0A1B1WW33/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW33_WNV
+#=GS UniRef90_A0A1B1WX17/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX17_WNV
+#=GS UniRef90_A0A1B1WVE7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVE7_WNV
+#=GS UniRef90_A0A1B1WVW5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVW5_WNV
+#=GS UniRef90_A0A1B1WUJ8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUJ8_WNV
+#=GS UniRef90_A0A1B1WUI7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUI7_WNV
+#=GS UniRef90_A0A1B1WWC6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWC6_WNV
+#=GS UniRef90_A0A1B1WWF7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWF7_WNV
+#=GS UniRef90_A0A1B1WWS1/591-687    DE [subseq from] Core protein n=4 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWS1_WNV
+#=GS UniRef90_A0A1B1WW94/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW94_WNV
+#=GS UniRef90_A0A1B1WW08/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW08_WNV
+#=GS UniRef90_A0A1B1WX47/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX47_WNV
+#=GS UniRef90_A0A1B1WWI3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWI3_WNV
+#=GS UniRef90_A0A1B1WW65/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW65_WNV
+#=GS UniRef90_A0A1B1WVW4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVW4_WNV
+#=GS UniRef90_A0A1B1WV67/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV67_WNV
+#=GS UniRef90_A0A1B1WVZ6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVZ6_WNV
+#=GS UniRef90_A0A1B1WWS0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWS0_WNV
+#=GS UniRef90_A0A1B1WVL5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVL5_WNV
+#=GS UniRef90_A0A1B1WTP0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTP0_WNV
+#=GS UniRef90_A0A1B1WX13/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX13_WNV
+#=GS UniRef90_A0A1B1WVN7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVN7_WNV
+#=GS UniRef90_A0A1B1WUA5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUA5_WNV
+#=GS UniRef90_A0A1B1WX78/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX78_WNV
+#=GS UniRef90_A0A1B1WU80/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU80_WNV
+#=GS UniRef90_A0A1B1WTV7/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTV7_WNV
+#=GS UniRef90_A0A1B1WXD6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXD6_WNV
+#=GS UniRef90_A0A1B1WXF1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXF1_WNV
+#=GS UniRef90_A0A1B1WXG5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXG5_WNV
+#=GS UniRef90_A0A1B1WTY2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTY2_WNV
+#=GS UniRef90_A0A1B1WX05/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX05_WNV
+#=GS UniRef90_A0A1B1WVW7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVW7_WNV
+#=GS UniRef90_A0A1B1WWX0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWX0_WNV
+#=GS UniRef90_A0A1B1WV86/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV86_WNV
+#=GS UniRef90_A0A1B1WV12/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV12_WNV
+#=GS UniRef90_A0A1B1WV95/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV95_WNV
+#=GS UniRef90_A0A1B1WWY3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWY3_WNV
+#=GS UniRef90_A0A1B1WWK1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWK1_WNV
+#=GS UniRef90_A0A1B1WXE9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXE9_WNV
+#=GS UniRef90_A0A1B1WXC4/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXC4_WNV
+#=GS UniRef90_A0A1B1WUI2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUI2_WNV
+#=GS UniRef90_A0A1B1WU42/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU42_WNV
+#=GS UniRef90_A0A1B1WV13/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV13_WNV
+#=GS UniRef90_A0A1B1WV43/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV43_WNV
+#=GS UniRef90_A0A1B1WU88/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU88_WNV
+#=GS UniRef90_A0A1B1WTQ7/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTQ7_WNV
+#=GS UniRef90_A0A1B1WVG0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVG0_WNV
+#=GS UniRef90_A0A1B1WV17/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV17_WNV
+#=GS UniRef90_A0A1B1WV46/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV46_WNV
+#=GS UniRef90_A0A1B1WWA9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWA9_WNV
+#=GS UniRef90_A0A1B1WVF9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVF9_WNV
+#=GS UniRef90_A0A1B1WWN8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWN8_WNV
+#=GS UniRef90_A0A1B1WVZ7/591-687    DE [subseq from] Core protein n=23 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVZ7_WNV
+#=GS UniRef90_A0A1B1WTL3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTL3_WNV
+#=GS UniRef90_A0A1B1WU30/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU30_WNV
+#=GS UniRef90_A0A1B1WVT2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVT2_WNV
+#=GS UniRef90_A0A1B1WUW5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUW5_WNV
+#=GS UniRef90_A0A1B1WVL6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVL6_WNV
+#=GS UniRef90_A0A1B1WVY4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVY4_WNV
+#=GS UniRef90_A0A1B1WWL4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWL4_WNV
+#=GS UniRef90_A0A1B1WWT8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWT8_WNV
+#=GS UniRef90_A0A1B1WVL3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVL3_WNV
+#=GS UniRef90_A0A1B1WXF5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXF5_WNV
+#=GS UniRef90_A0A1B1WWB2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWB2_WNV
+#=GS UniRef90_A0A1B1WTW5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTW5_WNV
+#=GS UniRef90_A0A1B1WWU8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWU8_WNV
+#=GS UniRef90_A0A1B1WTW3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTW3_WNV
+#=GS UniRef90_A0A1B1WTZ3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTZ3_WNV
+#=GS UniRef90_A0A1B1WUN9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUN9_WNV
+#=GS UniRef90_A0A1B1WX99/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX99_WNV
+#=GS UniRef90_A0A1B1WVY2/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVY2_WNV
+#=GS UniRef90_A0A1B1WW54/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW54_WNV
+#=GS UniRef90_A0A1B1WWI1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWI1_WNV
+#=GS UniRef90_A0A1B1WWX1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWX1_WNV
+#=GS UniRef90_A0A1B1WVC6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVC6_WNV
+#=GS UniRef90_A0A1B1WWY2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWY2_WNV
+#=GS UniRef90_A0A1B1WTZ5/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTZ5_WNV
+#=GS UniRef90_A0A1B1WVP8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVP8_WNV
+#=GS UniRef90_A0A1B1WXB0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXB0_WNV
+#=GS UniRef90_A0A1B1WW42/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW42_WNV
+#=GS UniRef90_A0A1B1WUE7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUE7_WNV
+#=GS UniRef90_A0A1B1WUK8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUK8_WNV
+#=GS UniRef90_A0A1B1WVW0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVW0_WNV
+#=GS UniRef90_A0A1B1WWK3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWK3_WNV
+#=GS UniRef90_A0A1B1WTU3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTU3_WNV
+#=GS UniRef90_A0A1B1WUB0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUB0_WNV
+#=GS UniRef90_A0A1B1WUU4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUU4_WNV
+#=GS UniRef90_A0A1B1WWE2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWE2_WNV
+#=GS UniRef90_A0A1B1WX72/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX72_WNV
+#=GS UniRef90_A0A1B1WTQ2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTQ2_WNV
+#=GS UniRef90_A0A1B1WVL9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVL9_WNV
+#=GS UniRef90_A0A1B1WX28/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX28_WNV
+#=GS UniRef90_A0A1B1WW46/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW46_WNV
+#=GS UniRef90_A0A1B1WUQ8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUQ8_WNV
+#=GS UniRef90_A0A1B1WTR7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTR7_WNV
+#=GS UniRef90_A0A1B1WTN9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTN9_WNV
+#=GS UniRef90_A0A1B1WUL3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUL3_WNV
+#=GS UniRef90_A0A1B1WVN0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVN0_WNV
+#=GS UniRef90_A0A1B1WW26/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW26_WNV
+#=GS UniRef90_A0A1B1WUV3/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUV3_WNV
+#=GS UniRef90_A0A1B1WU11/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU11_WNV
+#=GS UniRef90_A0A1B1WWJ8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWJ8_WNV
+#=GS UniRef90_A0A1B1WTS1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTS1_WNV
+#=GS UniRef90_A0A1B1WUQ3/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUQ3_WNV
+#=GS UniRef90_A0A1B1WWC2/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWC2_WNV
+#=GS UniRef90_A0A1B1WTN3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTN3_WNV
+#=GS UniRef90_A0A1B1WVC9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVC9_WNV
+#=GS UniRef90_A0A1B1WW36/591-687    DE [subseq from] Core protein n=6 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW36_WNV
+#=GS UniRef90_A0A1B1WV71/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV71_WNV
+#=GS UniRef90_A0A1B1WVW2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVW2_WNV
+#=GS UniRef90_A0A1B1WWS3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWS3_WNV
+#=GS UniRef90_A0A1B1WWI5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWI5_WNV
+#=GS UniRef90_A0A1B1WX75/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX75_WNV
+#=GS UniRef90_A0A1B1WX07/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX07_WNV
+#=GS UniRef90_A0A1B1WVU6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVU6_WNV
+#=GS UniRef90_A0A1B1WVU2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVU2_WNV
+#=GS UniRef90_A0A1B1WUR4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUR4_WNV
+#=GS UniRef90_A0A1B1WU27/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU27_WNV
+#=GS UniRef90_A0A1B1WTK5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTK5_WNV
+#=GS UniRef90_A0A1B1WTG9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTG9_WNV
+#=GS UniRef90_A0A1B1WWU6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWU6_WNV
+#=GS UniRef90_A0A1B1WWR4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWR4_WNV
+#=GS UniRef90_A0A1B1WV57/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV57_WNV
+#=GS UniRef90_A0A1B1WUZ5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUZ5_WNV
+#=GS UniRef90_A0A1B1WUH7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUH7_WNV
+#=GS UniRef90_A0A1B1WW09/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW09_WNV
+#=GS UniRef90_A0A1B1WV10/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV10_WNV
+#=GS UniRef90_A0A1B1WX41/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX41_WNV
+#=GS UniRef90_A0A1B1WX00/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX00_WNV
+#=GS UniRef90_A0A1B1WU82/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU82_WNV
+#=GS UniRef90_A0A1B1WVQ5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVQ5_WNV
+#=GS UniRef90_A0A1B1WWI0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWI0_WNV
+#=GS UniRef90_A0A1B1WWR7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWR7_WNV
+#=GS UniRef90_A0A1B1WV09/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV09_WNV
+#=GS UniRef90_A0A1B1WUI1/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUI1_WNV
+#=GS UniRef90_A0A1B1WUM3/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUM3_WNV
+#=GS UniRef90_A0A1B1WVJ4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVJ4_WNV
+#=GS UniRef90_A0A1B1WWL7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWL7_WNV
+#=GS UniRef90_A0A1B1WTX6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTX6_WNV
+#=GS UniRef90_A0A1B1WUL6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUL6_WNV
+#=GS UniRef90_A0A451FR67/591-687    DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A451FR67_WNV
+#=GS UniRef90_A0A1B1WUT0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUT0_WNV
+#=GS UniRef90_A0A1B1WWH8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWH8_WNV
+#=GS UniRef90_A0A1B1WUI9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUI9_WNV
+#=GS UniRef90_A0A1B1WUY6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUY6_WNV
+#=GS UniRef90_A0A1B1WUU5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUU5_WNV
+#=GS UniRef90_A0A1B1WTU7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTU7_WNV
+#=GS UniRef90_A0A1B1WWF3/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWF3_WNV
+#=GS UniRef90_A0A1B1WUD6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUD6_WNV
+#=GS UniRef90_A0A1B1WUP2/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUP2_WNV
+#=GS UniRef90_A0A1B1WUZ4/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUZ4_WNV
+#=GS UniRef90_A0A1B1WVK8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVK8_WNV
+#=GS UniRef90_A0A1B1WV40/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV40_WNV
+#=GS UniRef90_A0A1B1WW82/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW82_WNV
+#=GS UniRef90_A0A1B1WWC0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWC0_WNV
+#=GS UniRef90_A0A1B1WTK3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTK3_WNV
+#=GS UniRef90_A0A1B1WV78/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV78_WNV
+#=GS UniRef90_A0A1B1WUG9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUG9_WNV
+#=GS UniRef90_A0A1B1WVX0/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVX0_WNV
+#=GS UniRef90_A0A1B1WTS3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTS3_WNV
+#=GS UniRef90_A0A1B1WV37/591-687    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV37_WNV
+#=GS UniRef90_A0A1B1WUX3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUX3_WNV
+#=GS UniRef90_A0A1B1WUM8/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUM8_WNV
+#=GS UniRef90_A0A1B1WWG7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWG7_WNV
+#=GS UniRef90_K9J8W7/591-687        DE [subseq from] Core protein n=6 Tax=Flavivirus TaxID=11051 RepID=K9J8W7_9FLAV
+#=GS UniRef90_A0A1B1WWX6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWX6_WNV
+#=GS UniRef90_A0A1B1WW31/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW31_WNV
+#=GS UniRef90_A0A1B1WVR7/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVR7_WNV
+#=GS UniRef90_A0A1B1WX61/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX61_WNV
+#=GS UniRef90_A0A1B1WXA3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WXA3_WNV
+#=GS UniRef90_A0A1B1WUF6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUF6_WNV
+#=GS UniRef90_W5ZYE0/570-666        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=W5ZYE0_WNV
+#=GS UniRef90_W5S6Z5/591-687        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=W5S6Z5_WNV
+#=GS UniRef90_A0A1B1WUU6/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUU6_WNV
+#=GS UniRef90_A0A3R5W2F9/591-687    DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5W2F9_WNV
+#=GS UniRef90_A0A1B1WWX5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWX5_WNV
+#=GS UniRef90_A0A451FR70/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A451FR70_WNV
+#=GS UniRef90_W5ZYG1/591-687        DE [subseq from] Core protein (Fragment) n=13 Tax=West Nile virus TaxID=11082 RepID=W5ZYG1_WNV
+#=GS UniRef90_A0A3R5W2C5/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5W2C5_WNV
+#=GS UniRef90_A0A1B1WWP9/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWP9_WNV
+#=GS UniRef90_A0A1B1WUJ3/591-687    DE [subseq from] Core protein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUJ3_WNV
+#=GS UniRef90_UPI0009469785/589-678 DE [subseq from] truncated polyprotein n=2 Tax=Cacipacore virus TaxID=64305 RepID=UPI0009469785
+#=GS UniRef90_B6DQ68/163-226        DE [subseq from] Envelope protein E (Fragment) n=4 Tax=Murray Valley encephalitis virus TaxID=11079 RepID=B6DQ68_9FLAV
+#=GS UniRef90_A0A410FYP3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A410FYP3_WNV
+#=GS UniRef90_UPI000802952F/305-401 DE [subseq from] envelope protein E n=2 Tax=Zika virus TaxID=64320 RepID=UPI000802952F
+#=GS UniRef90_C8XPA8/566-650        DE [subseq from] Genome polyprotein n=3 Tax=Banzi virus TaxID=38837 RepID=POLG_BANV
+#=GS UniRef90_A0A3R5UQV8/591-687    DE [subseq from] Core protein n=3 Tax=West Nile virus TaxID=11082 RepID=A0A3R5UQV8_WNV
+#=GS UniRef90_Q4VIX4/594-691        DE [subseq from] Core protein n=5 Tax=Alfuy virus TaxID=44017 RepID=Q4VIX4_9FLAV
+#=GS UniRef90_D3X875/5-88           DE [subseq from] Polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=D3X875_WNV
+#=GS UniRef90_V5JD68/584-680        DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JD68_WNV
+#=GS UniRef90_A0A1B1WWL3/591-680    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWL3_WNV
+#=GS UniRef90_A0A2Z4HUD8/294-390    DE [subseq from] Envelope protein E (Fragment) n=18 Tax=Zika virus TaxID=64320 RepID=A0A2Z4HUD8_ZIKV
+#=GS UniRef90_Q91KY6/178-266        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Aroa virus TaxID=64303 RepID=Q91KY6_9FLAV
+#=GS UniRef90_A0A678XDK7/574-657    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A678XDK7_9FLAV
+#=GS UniRef90_K7U1E9/174-258        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Nanay virus TaxID=1254420 RepID=K7U1E9_9FLAV
+#=GS UniRef90_UPI0008068035/592-676 DE [subseq from] truncated polyprotein n=2 Tax=Chaoyang virus TaxID=631267 RepID=UPI0008068035
+#=GS UniRef90_A0A5J6RFF7/438-521    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6RFF7_9FLAV
+#=GS UniRef90_Q7TDC4/175-240        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q7TDC4_9FLAV
+#=GS UniRef90_A0A5J6REC7/574-657    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6REC7_9FLAV
+#=GS UniRef90_A0A5J6RDF7/574-657    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6RDF7_9FLAV
+#=GS UniRef90_A0A3R5W2N3/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5W2N3_WNV
+#=GS UniRef90_A0A1B1WV54/591-687    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV54_WNV
+#=GS UniRef90_A0A410FY44/591-679    DE [subseq from] Core protein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A410FY44_WNV
+#=GS UniRef90_A0A0C4PNF2/589-678    DE [subseq from] Core protein n=19 Tax=Cacipacore virus TaxID=64305 RepID=A0A0C4PNF2_9FLAV
+#=GS UniRef90_A0A2Z2CKG2/395-491    DE [subseq from] Envelope protein E (Fragment) n=18 Tax=Zika virus TaxID=64320 RepID=A0A2Z2CKG2_ZIKV
+#=GS UniRef90_Q8QSF1/497-573        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q8QSF1_9FLAV
+#=GS UniRef90_H9CH24/592-676        DE [subseq from] Core protein n=41 Tax=Chaoyang virus TaxID=631267 RepID=H9CH24_9FLAV
+#=GS UniRef90_A0A6G6AH54/593-674    DE [subseq from] Core protein (Fragment) n=1 Tax=Usutu virus TaxID=64286 RepID=A0A6G6AH54_USUV
+#=GS UniRef90_Q32ZD7/586-677        DE [subseq from] Genome polyprotein n=10 Tax=Ilheus virus TaxID=59563 RepID=POLG_ILHV
+#=GS UniRef90_A0A6B9CTP3/595-691    DE [subseq from] Core protein (Fragment) n=4 Tax=Zika virus TaxID=64320 RepID=A0A6B9CTP3_ZIKV
+#=GS UniRef90_Q91KY1/183-271        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Jugra virus TaxID=64309 RepID=Q91KY1_9FLAV
+#=GS UniRef90_A0A172HB04/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A172HB04_ZIKV
+#=GS UniRef90_Q91KZ0/183-271        DE [subseq from] Envelope protein E (Fragment) n=2 Tax=Rocio virus TaxID=64315 RepID=Q91KZ0_ROCV
+#=GS UniRef90_M4VN61/384-471        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Stratford virus TaxID=44027 RepID=M4VN61_KOKV
+#=GS UniRef90_A0A5J6REC1/439-521    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6REC1_9FLAV
+#=GS UniRef90_A0A1I9QNE9/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1I9QNE9_ZIKV
+#=GS UniRef90_Q91KX7/181-267        DE [subseq from] Envelope protein E (Fragment) n=27 Tax=Zika virus TaxID=64320 RepID=Q91KX7_ZIKV
+#=GS UniRef90_A0A290Y5L2/587-671    DE [subseq from] Core protein n=2 Tax=Nanay virus TaxID=1254420 RepID=A0A290Y5L2_9FLAV
+#=GS UniRef90_K9J8W9/591-679        DE [subseq from] Core protein n=3 Tax=Flavivirus TaxID=11051 RepID=K9J8W9_9FLAV
+#=GS UniRef90_A0A5J6REE1/574-667    DE [subseq from] Core protein (Fragment) n=1 Tax=Yellow fever virus TaxID=11089 RepID=A0A5J6REE1_9FLAV
+#=GS UniRef90_M4W688/587-673        DE [subseq from] Core protein n=4 Tax=Flavivirus TaxID=11051 RepID=M4W688_KOKV
+#=GS UniRef90_A0A076MNV1/588-674    DE [subseq from] Core protein n=3 Tax=Kokobera virus TaxID=44024 RepID=A0A076MNV1_KOKV
+#=GS UniRef90_M4VRU9/384-470        DE [subseq from] Envelope protein E (Fragment) n=2 Tax=Kokobera virus TaxID=44024 RepID=M4VRU9_KOKV
+#=GS UniRef90_Q32ZD4/586-674        DE [subseq from] Genome polyprotein n=5 Tax=Rocio virus TaxID=64315 RepID=POLG_ROCV
+#=GS UniRef90_Q91KX8/183-260        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Saboya virus TaxID=64284 RepID=Q91KX8_9FLAV
+#=GS UniRef90_A0A0C4PLV9/582-671    DE [subseq from] Core protein n=2 Tax=Aroa virus TaxID=64303 RepID=A0A0C4PLV9_9FLAV
+#=GS UniRef90_Q32ZE1/591-687        DE [subseq from] Genome polyprotein n=1062 Tax=root TaxID=1 RepID=POLG_ZIKV
+#=GS UniRef90_A0A1V0E2D1/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2D1_ZIKV
+#=GS UniRef90_C8XPA9/566-650        DE [subseq from] Core protein n=3 Tax=Bouboui virus TaxID=64295 RepID=C8XPA9_9FLAV
+#=GS UniRef90_Q91KY8/186-271        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Naranjal virus TaxID=64313 RepID=Q91KY8_9FLAV
+#=GS UniRef90_Q32ZD9/580-674        DE [subseq from] Core protein n=4 Tax=Entebbe bat virus TaxID=64283 RepID=Q32ZD9_9FLAV
+#=GS UniRef90_A0A076MKM1/588-675    DE [subseq from] Core protein n=26 Tax=Flavivirus TaxID=11051 RepID=A0A076MKM1_KOKV
+#=GS UniRef90_A0A166XWC3/574-670    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A166XWC3_ZIKV
+#=GS UniRef90_UPI00080734F0/591-676 DE [subseq from] truncated polyprotein n=2 Tax=Lammi virus TaxID=649187 RepID=UPI00080734F0
+#=GS UniRef90_A0A678Z4G9/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A678Z4G9_ZIKV
+#=GS UniRef90_A0A142FH78/588-684    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A142FH78_ZIKV
+#=GS UniRef90_A0A166XWW1/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A166XWW1_ZIKV
+#=GS UniRef90_A0A2Z2EVI6/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EVI6_ZIKV
+#=GS UniRef90_UPI0008073BB1/598-682 DE [subseq from] truncated polyprotein n=2 Tax=Ilomantsi virus TaxID=1445557 RepID=UPI0008073BB1
+#=GS UniRef90_A0A2Z2ETR2/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ETR2_ZIKV
+#=GS UniRef90_A0A2Z2EWP5/595-691    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EWP5_ZIKV
+#=GS UniRef90_A0A5K1KBB1/503-599    DE [subseq from] Core protein (Fragment) n=2 Tax=Zika virus TaxID=64320 RepID=A0A5K1KBB1_ZIKV
+#=GS UniRef90_A0A2R4RPR7/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2R4RPR7_ZIKV
+#=GS UniRef90_A0A7S6TB50/595-691    DE [subseq from] Polyprotein n=1 Tax=Zika virus TaxID=64320 RepID=A0A7S6TB50_ZIKV
+#=GS UniRef90_V9IUD6/111-195        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Wesselsbron virus TaxID=164416 RepID=V9IUD6_WSLV
+#=GS UniRef90_A0A678Z0F5/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A678Z0F5_ZIKV
+#=GS UniRef90_A0A1V0E2I9/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2I9_ZIKV
+#=GS UniRef90_A0A1V0E2E3/507-603    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2E3_ZIKV
+#=GS UniRef90_A0A678Z803/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A678Z803_ZIKV
+#=GS UniRef90_A0A7U3NF70/595-691    DE [subseq from] Polyprotein n=1 Tax=Zika virus TaxID=64320 RepID=A0A7U3NF70_ZIKV
+#=GS UniRef90_A0A7U3RUS7/595-691    DE [subseq from] Polyprotein n=1 Tax=Zika virus TaxID=64320 RepID=A0A7U3RUS7_ZIKV
+#=GS UniRef90_A0A1D9C0W4/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1D9C0W4_ZIKV
+#=GS UniRef90_A0A166XW58/515-611    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A166XW58_ZIKV
+#=GS UniRef90_A0A7U3NEV9/595-691    DE [subseq from] Polyprotein n=1 Tax=Zika virus TaxID=64320 RepID=A0A7U3NEV9_ZIKV
+#=GS UniRef90_A0A2Z2EVI9/595-691    DE [subseq from] Core protein n=2 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EVI9_ZIKV
+#=GS UniRef90_A0A1V0E2G4/507-603    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2G4_ZIKV
+#=GS UniRef90_A0A1D9C0X8/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1D9C0X8_ZIKV
+#=GS UniRef90_A0A2Z2ESX2/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ESX2_ZIKV
+#=GS UniRef90_A0A2Z2ESY4/511-607    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ESY4_ZIKV
+#=GS UniRef90_A0A3S9W5R8/515-611    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A3S9W5R8_ZIKV
+#=GS UniRef90_A0A678Z025/595-691    DE [subseq from] Core protein n=10 Tax=Zika virus TaxID=64320 RepID=A0A678Z025_ZIKV
+#=GS UniRef90_A0A2D1AHM0/519-615    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2D1AHM0_ZIKV
+#=GS UniRef90_A0A678Z020/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A678Z020_ZIKV
+#=GS UniRef90_A0A2Z2ET46/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ET46_ZIKV
+#=GS UniRef90_A0A1D9C0V7/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1D9C0V7_ZIKV
+#=GS UniRef90_A0A1P8D4A2/569-665    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1P8D4A2_ZIKV
+#=GS UniRef90_A0A1V0E2H8/501-597    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2H8_ZIKV
+#=GS UniRef90_A0A2R4RQD2/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A2R4RQD2_ZIKV
+#=GS UniRef90_A0A2R4RQF9/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A2R4RQF9_ZIKV
+#=GS UniRef90_A0A1V0E2I7/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2I7_ZIKV
+#=GS UniRef90_A0A2D0ZYM3/576-672    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2D0ZYM3_ZIKV
+#=GS UniRef90_A0A5J6APP3/556-652    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A5J6APP3_ZIKV
+#=GS UniRef90_A0A1V0E2G8/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2G8_ZIKV
+#=GS UniRef90_A0A2Z2F2Q6/595-691    DE [subseq from] Envelope protein E n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2F2Q6_ZIKV
+#=GS UniRef90_A0A1V0E2E0/407-503    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2E0_ZIKV
+#=GS UniRef90_A0A088BPV6/591-676    DE [subseq from] Core protein n=15 Tax=Lammi virus TaxID=649187 RepID=A0A088BPV6_9FLAV
+#=GS UniRef90_A0A1P8D483/585-681    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1P8D483_ZIKV
+#=GS UniRef90_A0A2Z2EVJ3/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EVJ3_ZIKV
+#=GS UniRef90_A0A1V0E2J2/595-691    DE [subseq from] Envelope protein E (Fragment) n=9 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2J2_ZIKV
+#=GS UniRef90_A0A2Z2DVT6/595-691    DE [subseq from] Envelope protein E n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2DVT6_ZIKV
+#=GS UniRef90_A0A2Z2ET57/5-101      DE [subseq from] Flavivirin protease NS2B regulatory subunit (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ET57_ZIKV
+#=GS UniRef90_A0A678ZIK3/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A678ZIK3_ZIKV
+#=GS UniRef90_A0A2Z2EXA1/503-599    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EXA1_ZIKV
+#=GS UniRef90_A0A3G4YKZ5/511-607    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A3G4YKZ5_ZIKV
+#=GS UniRef90_A0A2Z2EVB3/503-599    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EVB3_ZIKV
+#=GS UniRef90_A0A1V0E2D7/407-503    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2D7_ZIKV
+#=GS UniRef90_A0A6S6PBT7/596-680    DE [subseq from] Core protein n=1 Tax=Psorophora flavivirus TaxID=2751814 RepID=A0A6S6PBT7_9FLAV
+#=GS UniRef90_A0A1V0E2C8/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2C8_ZIKV
+#=GS UniRef90_A0A2D1A642/577-673    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2D1A642_ZIKV
+#=GS UniRef90_Q32ZE0/595-692        DE [subseq from] Genome polyprotein n=7 Tax=Flavivirus TaxID=11051 RepID=POLG_BUSV
+#=GS UniRef90_A0A1V0E2C7/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2C7_ZIKV
+#=GS UniRef90_A0A1V0E2G9/507-603    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2G9_ZIKV
+#=GS UniRef90_A0A2Z2ESG9/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ESG9_ZIKV
+#=GS UniRef90_A0A5A4N749/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A5A4N749_ZIKV
+#=GS UniRef90_A0A3R5URB6/591-687    DE [subseq from] Core protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5URB6_WNV
+#=GS UniRef90_A0A1V0E2F2/507-603    DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2F2_ZIKV
+#=GS UniRef90_A0A678Z084/595-691    DE [subseq from] Core protein n=2 Tax=Zika virus TaxID=64320 RepID=A0A678Z084_ZIKV
+#=GS UniRef90_A0A2Z2ESF1/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2ESF1_ZIKV
+#=GS UniRef90_A0A2D1AJV0/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A2D1AJV0_ZIKV
+#=GS UniRef90_A0A1V0E2I8/506-602    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2I8_ZIKV
+#=GS UniRef90_Q91KY7/188-284        DE [subseq from] Envelope protein E (Fragment) n=1 Tax=Spondweni virus TaxID=64318 RepID=Q91KY7_9FLAV
+#=GS UniRef90_A0A1V0E2D0/595-691    DE [subseq from] Flavivirin protease NS2B regulatory subunit n=1 Tax=Zika virus TaxID=64320 RepID=A0A1V0E2D0_ZIKV
+#=GS UniRef90_A0A2Z2EVJ5/595-691    DE [subseq from] Core protein (Fragment) n=1 Tax=Zika virus TaxID=64320 RepID=A0A2Z2EVJ5_ZIKV
+#=GS UniRef90_A0A1P8D481/595-691    DE [subseq from] Core protein n=1 Tax=Zika virus TaxID=64320 RepID=A0A1P8D481_ZIKV
+
+chain_B                                TYTMCDKTKFTWKRIPTDSGHDTVVMEVAF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLMTPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_UPI001AD95186/5-97            TYTMCDKTKFTWKRAPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_C0J6S8/247-339                TYTMCDKTKFTWKRIPTDSGHDTVVMEVAF-SG-T-K-PCRIPVKA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_A0A096YGS4/55-147             TYTMCDKTKFTWKRAPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_C3V005/586-678                TYTMCDKTKFTWKRIPTDSGHDTVVMEVAF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_B1PKB2/245-337                TYTMCDKTKFAWKRIPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_UPI00100D9BEC/303-395         TYTMCDKTKFTWKRAPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_A0A2D2AKR4/580-672            TYTMCDKTKFTWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_I1WED5/101-193                TYTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_D0VBA8/217-309                TYTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_P14336/583-675                TYTMCDKTKFTWKRAPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_A0A4Y1PRQ8/583-675            TYTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_A0A346FW82/583-675            TYTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_A0A4P8YTF2/583-675            TYTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_M9QQQ7/247-339                TYTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-P---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_Q88474/303-395                TYTTCDKTKFTWKRVPTDSGHDTVVMEVTF-SG-S-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---S--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_I1VEB1/584-675                -YTMCDKTKFAWKRTPTDSGHDTVVMEVTF-SG-T-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_UPI0000D644F8/10-102          TYTVCDKTKFTWKRAPTDSGHDTVVMEVGF-SG-T-R-PCRIPVRA-VAHGVPEVNVAMLITPNP-T---M---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----D----LNHQWFQK
+UniRef90_P35764/303-394                TYTMCDKSKFAWKRTPTDSGHDTVVMEVTF-SG-S-K-PCRIPVRA-VAHGSPDVNVAMLITPNP-T---I---E---N---D--G---G-G----F-IEMQLPPGDNIIYVG----E----LSHQWFQ-
+UniRef90_Q0MUU1/303-395                TYTVCDKTKFTWKRAPTDSGHDTVVMEVGF-SG-T-R-PCRIPVRA-VAHGVPEVNVAMLITPNP-T---M---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----D----LDHQWFQK
+UniRef90_P29837/583-675                TYTVCDKTKFTWKRAPTDSGHDTVVMEVGF-SG-T-R-PCRIPVRA-VAHGVPEVNVAMLITPNP-T---M---E---N---N--G---G-G----F-IEMQLPPGDNIIYVG----D----LNHQWFQK
+UniRef90_UPI001AD95103/7-100           TYSMCDKTKFKWKRVPVDSGHDTVVMEVSY-TG-SDK-PCRIPVRA-VAHGVPTINVAMLITPNP-T---I---E---T---S--G---G-G----F-IEMQLPPGDNIIYVG----D----LSQQWFQK
+UniRef90_Q8VBM6/303-396                TYSMCDKTKFKWKRVPVDSGHDTVVMEVSY-TG-SDK-PCRIPVRA-VAHGVPTINVAMLITPNP-T---I---E---T---S--G---G-G----F-IEMQLPPGDNIIYVG----D----LSQQWFQK
+UniRef90_Q91LY1/581-674                TYSMCDKTKFKWKRVPVDSGHDTVVMEVSY-TG-SDK-PCRIPVRA-VAHGVPTINVAMLITPNP-T---I---E---T---S--G---G-G----F-IEMQLPPGDNIIYVG----D----LSQQWFQK
+UniRef90_Q82951/584-676                TYTVCEGSKFAWKRPPTDSGHDTVVMEVTY-TG-S-K-PCRIPVRA-VAHGEPNVNVASLITPNP-S---M---E---N---T--G---G-G----F-VELQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_Q04538/581-674                TYSMCDKAKFKWKRVPVDSGHDTVVMEVSY-TG-SDK-PCRIPVRA-VAHGVPAVNVAMLITPNP-T---I---E---T---N--G---G-G----F-IEMQLPPGDNIIYVG----D----LSQQWFQK
+UniRef90_A0A218MY58/317-409            TYTVCEGSKFAWKRPPTDSGHDTVVMEVTY-TG-S-K-PCRIPVRA-VAHGEPNVNVASLITPNP-S---M---E---T---T--G---G-G----F-VELQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_Q91B85/584-676                TYTVCEGSKFAWKRPPTDSGHDTVVMEVTY-TG-S-K-PCRIPVRA-VAHGEPNVNVASLITPNP-S---M---E---T---T--G---G-G----F-VELQLPPGDNIIYVG----E----LSHQWFQK
+UniRef90_A1X3E5/47-139                 TYTVCEGSKFAWKRPPTDSGHDTVVMEVTY-TG-S-K-PCRIPVRA-VAHGEPNVNVASLITPNP-S---M---E---T---T--G---G-G----F-VELQLPPGDSIIYVG----E----LSHQWFQK
+UniRef90_A0A0D5BTQ2/321-406            TYTVCEGSKFAWKRPPTDSGHDTVVLEVTY-TG-S-K-PCRIPVRA-VAHGEPNVNVASLITPNP-S---M---E---T---T--G---G-G----F-VELQLPPGDNIIYVG----E----L-------
+UniRef90_Q5G264/582-675                TYSMCEEGKFAWKRPPTDSGHDTVVMEVTY-TG-TVK-PCRIQVRA-EAKGAPNVDVANLITPNP-T---I---E---N---E--G---G-G----Y-IEMQLPPGDNTIYIG----N----LHQAWFQK
+UniRef90_G9DDB7/165-246                TYTVCEGSKFAWKRPPTDSGHDTVVMEVTY-TG-S-K-PCRIPVRA-VAHGEPNVNVASLITPNP-S---M---E---T---T--G---G-G----F-VELQLPPGDNIIY-------------------
+UniRef90_A0EKU2/583-676                TYSMCEADKFKWKRPPTESGHDTVVMEVEY-TGSS-K-PCRIPIRA-TSKGGGETNVAMLITSNP-T---I---E---T---A--G---G-G----F-IEMQLPPGDCTIYVG----T----LAHQWFQK
+UniRef90_A0EKU6/584-676                TYSMCESGKFSWKRPPTDSGHDTVVMEVSY-SGAT-K-PCRIPVMA-TAHGE-ESNVAMLITSNP-T---I---E---T---D--K---G-G----F-IEMQVPPGDITIKIG----D----LKQQWFQK
+UniRef90_Q91KZ1/185-274                TYSMCEADKFKWKRPPTESGHDTVVMEVEY-TGSS-K-PCRIPIRA-TSKGGGETNVAMLITSNP-T---I---E---T---A--G---G-G----F-IEMQLPPGDCTIYVG----T----LAHQ----
+UniRef90_Q91KX6/172-265                TYGMCAVGDFSWKRVPTDSQHDTVVMEVTY-TG-SST-PCRIPVRA-YHPGTPEKDVASVITANP-V---V---E---S---T--HV-KD-I----F-IEMQLPPGDNVIAVG----S----LRYQWF--
+UniRef90_A0EKU1/572-667                TYGMCAVGDFSWKRVPTDSQHDTVVMEVTY-TG-SST-PCRIPVRA-YHPGTPEKDVASVITANP-V---V---E---S---T--HV-KD-I----F-IEMQLPPGDNVIAVG----S----LRYQWFQK
+UniRef90_A0EKU3/569-662                TYSACESSKFTWKQTPRDSAHDTVVMKLAY-TG-T-K-PCRALVRA-YRPGAETLDVAKLITSNP-I---C---T---N---D--M--TD-L----F-VEMQVPPGDTIIAVG----D----LRFQWFQK
+UniRef90_W5VRZ2/572-666                TYGMCANGDFKWKRTPTGSQHDTVVMEVTY-TG-SST-PCRIPVRA-YHPGIPEKNVASVITTNP-V---V---E---S---T--Q--KD-V----F-IEMQVPPGDNILAVG----S----LRYQWFQR
+UniRef90_A0EKU7/572-667                TYTLCGGNDFTWKKNPTESQHDTVVMEVTY-TG-SST-PCRVPVRA-YHPTIVEKDIASIITANP-V---V---E---S---THTK---D-V----F-IEMQLPPGDSIIAIG----S----LRYQWFQK
+UniRef90_W5VK97/573-668                TYGVCAGSELKWKKTPTGSQHDTVVMEVTY-TG-SST-PCRITVRA-YEPRVPEKDVASVITTNP-V---V---E---S---SYTK---D-V----F-IEMQVPPGDNIIAVG----D----LKYQWFQR
+UniRef90_A0A088MWA0/223-257            TYTMCDKTKFTWKRAPTDSGHDTVVMEVTF-SG-T-K-P-------------------------------------------------------------------------------------------
+UniRef90_A0A7R7E0K9/564-659            TYRACDP-QFKWAKPPTATPHGTVVMTVTY-AG-KQK-PCRVYATA-VANEGDVKNIATQITANP-I---V---P---S---E--A---S-AEHEVL-LEMQVPPGDCIFVIG----E----AKYRWFQ-
+UniRef90_A0A0C4VYW6/569-661            TYGYCEK-NFEWSKKPTPTPHDTVVLEVKY-KG-TVQ-PCRVTASV-EKEGSPGKNFGSLITANP-F---V---T---K---T-DD---I-L----F-LELVVPTGSYVIKVG----N----LEYNWKQ-
+UniRef90_A0A0M4MYM9/226-256            TYTMCDKTKFTWKRIPTDSGHDTVVMEVAV-L--------------------------------------------------------------------------------------------------
+UniRef90_Q91KZ2/191-287                TYPMCS-NKFTLAKNPTDTGHGTVVVELSY-SG-S-DGPCRIPISM-TANLQDLTPIGRLITVNP-Y---V---S---T---S--S---S-GT-KVV-VELEPPFGDSFILVGTGENQ----IKYQW---
+UniRef90_Q8QL64/567-657                TYVVCG-GKFAWAKKPIATNHDTVAMEVTY-TG-NDT-PCRVTVKN-VKENSDDQG--TLITTNP-F---V---E---S---N--G---A-T---IF-LELEPVYGLSTIKVG----D----ITYQWNQ-
+UniRef90_Q9J9C2/567-659                TYSQCTK-PFEWIKKPVLTQHGTVVMEVKY-TG-EGA-PCRIPFRV-ERVDKPMENVGNLVTGNP-Y---A--SQ---K---D--A---V-V----F-LEAEVPPGISIIKIG----D----IDVQWNQ-
+UniRef90_Q91KY0/177-260                TYTMC-KGGFSFVKTPTDTGHGTAVMQVKV-SK-G-T-PCRIPVQA-VDSSNGGTNRATLITANP-I---A---A---T---T-ED---K-V----M-IELSPPYGESYIMIG-----------------
+UniRef90_A0A2P1C6P4/17-113             TYGMCTE-EFSFAKNPVDTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTANP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_G4XKW9/68-164                 TYSMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_A0A0C4W3V9/568-658            -YQFCT-GNFEWTKKPILTNHDTVVLEVKY-LG-SDA-PCRIPFKN-TKDGSDDRGV--LITSNP-Y---V---E---R---T--S---GQV----F-LELEPLYGVSTIKVG----D----LSYQWNQK
+UniRef90_A0A410UD31/587-682            TYTMC-KGGYSFSKTPVDSGHQTVMMKVKV-SK-A-T-PCRVPVSV-VESMTDNINRGVVITTNP-V--AF---E---T---T--T---E-V----L-IEVVPPFGDSVIIIGNGEDK----LTYQWHQ-
+UniRef90_A0A097ZPD7/232-328            TYGMCTE-KFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_Q98118/300-396                TYGMCTE-KFSFAKNPADTGHGTVVIELTY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---VATSS---S---N--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_V5TAS6/101-189                TYGMCDS-AFTFSKNPADTGHGTVIVELQY-TG-S-NGPCRVPISV-TANLMDLTPVGRLVTVNP-F---I---S---T---G--G---A-NN-KVM-IEVEPPFGDSYIVVG----R----G-------
+UniRef90_A0A2S0RQS6/590-686            TYPMCS-NKFTLAKNPTDTGHGTVVVELSY-SG-S-DGPCRIPISM-TANLQDLTPIGRLITVNP-Y---V---S---T---S--S---S-GT-KVV-VELEPPFGDSFILVGTGENQ----IKYQW---
+UniRef90_A0A0G4DCZ0/439-535            TYGMCTE-KFSFAKNPADTGHGTVVIELTY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---VATSS---S---N--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_A0A7D5C2U9/300-396            TYGMCTE-KFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_Q8JJZ3/564-656                TYPYCGD-SFVWKRRPTATHHGTVAMEVTY-QG-T-DVPCKVSVIV-EKDGQNGGNAGSLITSNP-I---I---T---A---Q--G---S-S---VF-LELEVPLGFSTIKVG----A----AKQQWRQ-
+UniRef90_C8XPB2/577-661                TYTMC-KGGFSFVKTPTDTGHGTAVMQVKV-SK-G-T-PCRIPVQA-VDSSNGGTNRATLITANP-I---A---A---T---T-ED---E-V----M-IELSPPYGESYIMIG----T------------
+UniRef90_B6C6W4/301-389                TYGMCDS-AFTFSKNPADTGHGTVIVELQY-TG-S-NGPCRVPISV-TANLMDLTPVGRLVTVNP-F---I---S---T---G--G---A-NN-KVM-VEVEPPFGDSYIVVG----R----G-------
+UniRef90_A0A650AXT6/438-534            TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_Q82875/594-690                TYGMCTE-KFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSVN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_A0A516TZ99/259-347            TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVG----R----G-------
+UniRef90_A8B3J1/346-443                TYGMCTE-KFTFSKNPADTGHGTVVLELQY-TG-S-DGPCKIPISS-VASLNDMTPVGIMVTANP-Y---V---A---SSTAN--A---K-V----L-VEIEPPFGDSYIVVGRGDKQ----INHHWH--
+UniRef90_P0DOH8/594-690                TYGMCTE-KFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_UPI00017615F2/11-104          -YKMCT-DKMSFVKNPTDTGHGTVVMQVKV-PK-G-A-PCKIPVIV-ADDLTAAINKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_Q76BX7/195-284                TYPMCSNT-FSLAKNPTDTGHGTVVVELSY-AG-S-DGPCRVPISM-SADLNDMTPVGRLITVNP-Y---V---S---T---S--S---T-GA-KIM-VEVEPPFGDSFILVG----S----GK------
+UniRef90_A0A516TZ73/259-347            TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VATLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVG----R----G-------
+UniRef90_P14403/522-618                TYGMCTE-KFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_UPI00003BECBC/10-107          TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHWH--
+UniRef90_A0A067Z1N8/593-689            TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_H9BYP4/594-690                TYDMCTE-KFSFAKNPVDTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_A0A0T7B4R0/468-565            TYGMCTE-KFTFSKNPADTGHGTVVLELQY-AG-S-DGPCKIPISS-VASLNDMTPIGRMVTANP-Y---V---A---SSTVN--S---K-V----L-VEIEPPFGDSYIVVGRGDKQ----INHHWH--
+UniRef90_Q7TG41/519-607                TYGMCDS-AFIFSKNPTDTGHGTVIVELQY-TG-S-NGPCRVPISV-TANLMDLTPVGRLVTVNP-F---I---S---T---G--G---A-NN-KVM-IEVEPPFGDSYVVVG----R----G-------
+UniRef90_P27395/594-690                TYGMCTE-KFSFAKNPVDTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_A0A6B9VR30/593-690            TYGMCTE-KFTFSKNPADTGHGTVVLELQY-TG-S-DGPCKIPISS-VASLNDMTPVGRMVTANP-Y---V---A---SSTAN--A---K-V----L-VEIEPPFGDSYIVVGRGDKQ----INHHWH--
+UniRef90_Q7T918/589-684                TYTMC-KGGYSFSKTPVDSGHQTVIMKVKV-SK-A-T-PCRIPVAV-IDSMQSNINRGVVVTTNP-V---A--FE---A---A--T---E-V----M-IEVVPPFGESVITIG----NGEDRLTYQWHQ-
+UniRef90_Q9JAD5/562-654                TYQMCS-SSFVWHKRPVATQHGTVAMEVKY-KG-SDA-PCRIPVSV-EKEGYNGKNFGNLITANP-F---A---A---N---N--E---AVV----F-LELEAPLGVSTIKVG----G----AVFQWKQ-
+UniRef90_B8R6B9/587-678                TYGMC-KNKFTLARTPTDTGHGTVVVEVTY-TG-NDG-PCRIPISM-SMNLHDLTPVGRLVTVNP-F---VPTSA---Q---N--Q---K-I----L-VELEPPFGDSFILLG----T----GSNQ----
+UniRef90_Q32ZD8/582-678                TYHMCAKA-FTMKKDPTDTGHGTVVMELTY-KG-IDV-PCRVPITI-ARSPNDGEMVGRMVSVNP-L---A---M---T---T--S---S-V----FMVEVEPPYGDSNIIVG----SYDNVLKHHWFK-
+UniRef90_Q32ZD6/587-670                -YAMCG-GKFSFHRNPAPTQHGTVTVDIGY-SG-D-A-PCKVPISV-SSEANSHKNVGRLVTANP-I---V---M---K---N--G---D-S---VL-VEVEPPFGDSYIVVG----T------------
+UniRef90_Q9WN82/190-283                -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTASVNKGILVTVNP-I---A---S---T---N--E--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_B5U127/205-301                TYGVCAKA-FRFSNTPADTGHGTVVMELQY-TG-T-DGPCKIPITS-VASLNDLTPVGRLVTVNP-Y---V---SVATA---N--A---K-I----L-VELEPPFGDSYIVIG----KGDQQVTHHW---
+UniRef90_P05769/593-690                TYGMCTE-KFTFSKNPADTGHGTVVLELQY-TG-S-DGPCKIPISS-VASLNDMTPVGRMVTANP-Y---V---A---SSTAN--A---K-V----L-VEIEPPFGDSYIVVGRGDKQ----INHHWH--
+UniRef90_A0A0B7JKQ7/51-147             TYGVCSKA-FKFAGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--S---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1J0RKC4/589-677            TYGMCDS-AFTFSKNPADTGHGTVIVELQY-TG-S-NGPCRVPISV-TANLMDLTPVGRLVTVNP-F---I---S---T---G--G---A-NN-KVM-IEVEPPFGDSYIVVG----R----G-------
+UniRef90_P09732/589-677                TYGMCDS-AFTFSKNPADTGHGTVIVELQY-TG-S-NGPCRVPISV-TANLMDLTPVGRLVTVNP-F---I---S---T---G--G---A-NN-KVM-IEVEPPFGDSYIVVG----R----G-------
+UniRef90_A0A0N9BB48/88-184             TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_UPI0006B28D63/587-683         TYGVCSKA-FKFARTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--S---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_Q5WPU5/593-689                TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDSYIVVGRGDKQ----INHHW---
+UniRef90_A0A0H3WGP0/301-397            TYPMCSNT-FSLVKNPTDTGHGTVMVELSY-VG-T-DGPCRVPISM-SADLNDMTPVGRLITVNP-Y---V---S---T---S--S---T-GA-KIM-VEVEPPFGDSFILVGSGKGQ----IRYQW---
+UniRef90_K0BRZ6/590-681                TYPMCS-NKFSLARNPTDTGHGTVVVKLSY-AG-S-DGPCRIPISM-TANLQDLTPIGRMITVNP-Y---V---S---T---S--S---T-GT-KVI-VELEPPFGDSFILVG----S----GENQ----
+UniRef90_G1CRV4/588-684                TYPMCSNT-FSLVKNPTDTGHGTVVVELSY-AG-T-DGPCRVPISM-SADLNDMTPVGRLITVNP-Y---V---S---T---S--S---T-GA-KIM-VEVEPPFGDSFILVGSGKGQ----IRYQW---
+UniRef90_Q1X915/408-501                -YKMCT-DKMSFVKNPTDTGHGTVVMQVKV-PK-G-A-PCRIPVIV-ADDLTAAINKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_P06935/587-683                TYGVCSKA-FKFARTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--S---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_D0VF43/289-382                -YKMCT-DKMSFVKNPTDTGHGTVVMQVKV-PK-G-A-PCKIPVIV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_UPI0000E69E2F/301-397         TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_X4YHC9/301-397                TYGVCSKA-FQFHGHPADTGHGTVVLELKY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-Y---V---A---S---S--A---A-NA-IVL-IELEPPFGDSYIVVGRGDQQ----INHHW---
+UniRef90_P29165/582-675                -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTASVNKGILVTVNP-I---A---S---T---N--E--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A1BY40/325-421                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_W8P1R9/75-170                 TYTMC-KGGYSFSKSPVDSGHQTVLMKVKV-SK-N-T-PCRIPVMM-SESLNVVKNQGVVVTTNP-I--AF---E---P---T--G---E-V----L-IEVVPPFGESYIIIGNGEDK----LTHLWHQ-
+UniRef90_A5YBL1/301-392                TYAMCKG-TFAFAQTPVDTGHGTIVAELTY-TG-T-DGPCKIPISM-TADLRDMTPIGRLVTVNP-I---I---P---S---S--A---N-SQ-KIL-VELEPPFGSSFILVG----Q----ESNQ----
+UniRef90_I3VPR6/185-281                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_D6MT59/591-682                TYGVCAKA-FKFSGNPADTGHGTVVLELQY-TG-T-DGPCKVPVSS-VASLNDLTPVGRLVTVNP-F---V---AAATA---N--S---K-V----L-IELEPPFGDSYIVVG----R----GEHQ----
+UniRef90_P03314/582-675                -YKICTDKMF-FVKNPTDTGHGTVVMQVKV-SK-G-A-PCRIPVIV-ADDLTAAINKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVG----RGDSRLTYQWH--
+UniRef90_A0A0F7YYG9/238-322            TYPMCSNT-FSLAKNPTDTGHGTVVVELSY-AG-S-DGPCRVPISM-SADLNDMTPVGRLITVNP-Y---V---S---T---S--S---T-GA-KVM-IEVEPPFGDSFIL-------------------
+UniRef90_P89915/582-675                -YKMCT-DKMSFVKNPTDTGHGTVVMQVKV-PK-G-A-PCKIPVIV-ADDLTAAINKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_D3X888/572-668                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A067Z140/584-680            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_K9L2G3/591-687                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_V5JDD9/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_V5JD65/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_V5JD62/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_B5U2T6/590-686                TYGVCAKA-FRFSNTPADTGHGTVVMELQY-TG-T-DGPCKIPITS-VASLNDLTPVGRLVTVNP-Y---V---SVATA---N--A---K-I----L-VELEPPFGDSYIVIG----KGDQQVTHHW---
+UniRef90_V5JD61/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_V5JD69/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_V5JD58/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_Q91KY5/183-274                TYAMCKG-TFAFAQTPVDTGHGTIVAELTY-TG-T-DGPCKIPISM-TADLRDMTPIGRLVTVNP-I---I---P---S---S--A---K-SQ-KIL-VELEPPFGSSFILVG----Q----ENNQ----
+UniRef90_D3X8D8/2-95                   ----CSK-AFKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHWH--
+UniRef90_A0A222LPT5/13-109             TYGVCSKA-FKFAGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--S---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A2S0T071/582-675            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A1B1WVI7/591-682            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVG----R----GEHQ----
+UniRef90_A0A1B1WUN2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLSDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW47/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_Q82881/14-78                  TYGMCTE-KFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---T---S-----------------------------------------------
+UniRef90_A0A3G5MYN6/565-658            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A2S1IYJ8/581-674            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A2S1IYK0/574-667            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A5J6REC3/574-667            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_D7RX37/591-687                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A451FR09/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A346G7J7/438-531            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A7G4RNE0/574-667            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A2R3XYA7/582-675            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A5J6RFT9/438-531            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A2S1IYI9/574-667            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A678XIM8/574-667            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A2S1IYJ2/581-674            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A2S1IYI0/581-674            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A1B1WUB6/591-687            TYGVCSKA-FKFHGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_W8DX21/300-383                TYVTCAQ-AFTFAKRPVDTGHGTVVFQVSY-AG-TDA-PCKIPVA--VTDKPNGEHVGRLVTAHP-F---I--AK---Q---N--E---K-A----V-VEVEPPFGDSYIEIG-----------------
+UniRef90_C1KC23/300-384                TYVTCAQ-AFTFAKRPVDTGHGTVVFQVSY-AG-TDA-PCKIPVA--VTDKPNGEHVGRLVTAHP-F---I--AK---Q---N--E---K-A----V-VEVEPPFGDSYIEIG----A------------
+UniRef90_A0A1B1WU53/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVSTA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A2S1IYG6/581-674            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQWH--
+UniRef90_A0A0C4PNF3/580-675            TYTMC-KGGYSFSKSPVDSGHQTVLMKVKV-SK-N-T-PCRIPVMM-SESLNVVKNQGVVVTTNP-I--AF---E---P---T--G---E-V----L-IEVVPPFGESYIIIGNGEDK----LTHLWHQ-
+UniRef90_A0A1B1WU71/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_C8XPB7/566-650                TYTNCR-GGLSFVKTPTDTGHGTVVMQVKV-SR-N-A-PCRLTVIA-ADDASGHVNRGTLVTSNP-I---A---N--SN---N--D---E-V----L-VEVNPPYGSSYLIVG----T------------
+UniRef90_A0A1S5WLR8/3-99               -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQX-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A3R5SMS2/211-307            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A0A0P7R9/591-687            TYGVCSKA-FKFAGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--S---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A5J6RIP3/438-530            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVGTGDSR----LTYQW---
+UniRef90_A0A3R5VRA2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A3R5SKU5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWY4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWP6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A067ZS69/587-683            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A3R5SIT0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU59/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SMATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV85/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVA3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU15/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVP4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTZ4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVAAA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUE0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX37/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A3R5SII4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX08/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVH2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW23/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW90/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUC1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX19/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWI2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU12/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWF4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW67/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUX0/591-687            TYGICSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVE4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU08/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV38/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUG3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV96/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV08/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWT1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUX6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUS5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWW0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUY0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_UPI0007AA7DB9/591-687         TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTW6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU48/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV98/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTV4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWQ9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVM6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVD2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUT4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVU0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXD4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX42/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW93/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV84/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWC1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWF0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUX9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU94/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTX1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUL8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW98/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWW4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTT6/591-687            TYGVCSKA-FKFLGAPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTZ6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUR6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUG1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW63/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUL1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUV6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWC4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXA0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX95/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWA3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVA5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUR3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWL0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWP1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV01/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWH5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW60/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVE8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV99/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWS5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV06/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV55/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVI6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU31/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX96/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXC8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU54/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWF5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXG2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV24/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVH5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVX9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWN7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW88/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVQ7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW87/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTU0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWT5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUW8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVL8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU61/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWP5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTR1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUL0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTT4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX16/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW55/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWE7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVY5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUN8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTM6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUA2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX46/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW91/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVI3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUS1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW33/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX17/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVE7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVW5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUJ8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUI7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWC6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWF7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWS1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW94/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW08/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX47/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWI3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW65/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVW4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV67/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVZ6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWS0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVL5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTP0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX13/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVN7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUA5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX78/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU80/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTV7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXD6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXF1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXG5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTY2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX05/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVW7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWX0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV86/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV12/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV95/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWY3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWK1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXE9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXC4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUI2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU42/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV13/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV43/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU88/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTQ7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVG0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV17/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV46/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWA9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVF9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWN8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVZ7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTL3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU30/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVT2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUW5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVL6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVY4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWL4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWT8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVL3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXF5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWB2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTW5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWU8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTW3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTZ3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUN9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX99/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVY2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW54/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWI1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWX1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVC6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWY2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTZ5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVP8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXB0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW42/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUE7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUK8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVW0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWK3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTU3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUB0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUU4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWE2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX72/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTQ2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVL9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX28/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW46/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUQ8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTR7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTN9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUL3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVN0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW26/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUV3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU11/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWJ8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTS1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUQ3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWC2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTN3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVC9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW36/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV71/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVW2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWS3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWI5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX75/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX07/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVU6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVU2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUR4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU27/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTK5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTG9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWU6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWR4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV57/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUZ5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUH7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW09/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV10/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX41/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX00/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WU82/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVQ5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWI0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWR7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV09/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUI1/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUM3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVJ4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWL7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTX6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUL6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A451FR67/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUT0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWH8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUI9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUY6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUU5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTU7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWF3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUD6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUP2/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUZ4/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVK8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV40/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW82/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWC0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTK3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV78/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUG9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVX0/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WTS3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV37/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUX3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUM8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWG7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_K9J8W7/591-687                TYGVCSKA-FQFHGHPADTGHGTVVLELKY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-Y---V---A---S---S--A---A-NA-IVL-IELEPPFGDSYIVVGRGDQQ----INHHW---
+UniRef90_A0A1B1WWX6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WW31/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WVR7/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WX61/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WXA3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUF6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_W5ZYE0/570-666                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_W5S6Z5/591-687                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUU6/591-687            TYGVCSKA-FEFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A3R5W2F9/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWX5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---AVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A451FR70/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_W5ZYG1/591-687                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A3R5W2C5/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWP9/591-687            TYGVCSKA-FKFIGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WUJ3/591-687            TYGVCSKA-FKFIGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_UPI0009469785/589-678         TYGMCAQ-SFSFAKNPVDTGHGTVVLELTY-SG-S-DGPCKIPITM-VTSLNDLEPVGRIVTANP-Y---V---AGSTS---N--T---K-V----L-IELEPPFGDSYIVVG----R----GN------
+UniRef90_B6DQ68/163-226                TYGMCTE-KFTFSKNPADTGHGTVVLELQY-TG-S-DGPCKIPISS-VASLNDMTPVGRMVTANP-Y---V---A---S---------------------------------------------------
+UniRef90_A0A410FYP3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_UPI000802952F/305-401         -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_C8XPA8/566-650                TYTNCR-GGLSFVKTPTDTGHGTVVMQVKV-AK-S-A-PCRLTAIA-ADDASGHVNRGTLVTSNP-I---A--AS---N---N--D---E-V----M-IEINPPYGTSYLIVG----V------------
+UniRef90_A0A3R5UQV8/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---F---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_Q4VIX4/594-691                TYAVCAE-GFTFTKTPADTGHGTVVLELKY-LG-ADG-PCKIPISS-VTNLNDLTPVGRLVTANP-F---V---SATTA---N--S---K-V----L-VEIEPPFGDSYIVVGRGDKQ----INHHWH--
+UniRef90_D3X875/5-88                   --------------TPADTGHGTVVLELQY-TG-T-DGPCKVPIXA-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDXYIVVGRGEQQ----INHHW---
+UniRef90_V5JD68/584-680                TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-NELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WWL3/591-680            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVG----R----GE------
+UniRef90_A0A2Z4HUD8/294-390            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--RITHHWH--
+UniRef90_Q91KY6/178-266                TYHMCAKS-FALKKDLADTGHGTVVMELTY-KG-S-DVPCRVPITI-SRSPSDGEMVGRMVSVNP-L---A---M---T---A--S---S-V----FMVEVEPPYGDSYIIIG----S----TDN-----
+UniRef90_A0A678XDK7/574-657            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVG----T------------
+UniRef90_K7U1E9/174-258                TYATCEGT-FTFEKIPTDTGHGTVVMEVASHDS-V-M-PCRVVASF-VDPDGKSLGGR-MITTNP-I---L---Q---S---T-TK---T-A----V-IEMEPPFGASHVALG----P------------
+UniRef90_UPI0008068035/592-676         TYVTCAQ-AFTFAKRPVDTGHGTVVFQVSY-AG-TDA-PCKIPVA--VTDKPNGEHVGRLVTAHP-F---I--AK---Q---N--E---K-A----V-VEVEPPFGDSYIEIG----A------------
+UniRef90_A0A5J6RFF7/438-521            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVG----T------------
+UniRef90_Q7TDC4/175-240                TYGMCTE-KFSFAKNPADTGHGTVVIELTY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---T---S--S--------------------------------------------
+UniRef90_A0A5J6REC7/574-657            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVG----T------------
+UniRef90_A0A5J6RDF7/574-657            -YKMCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVG----T------------
+UniRef90_A0A3R5W2N3/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VTSLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1B1WV54/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VVSLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A410FY44/591-679            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTVNP-F---V---SVATA---N--A---K-V----L-IELEPPFGDSYIVVG----R----G-------
+UniRef90_A0A0C4PNF2/589-678            TYGMCAQ-SFSFAKNPVDTGHGTVVLELTY-SG-S-DGPCKIPITM-VTSLNDLEPVGRIVTANP-Y---V---AGSTS---N--T---K-V----L-IELEPPFGDSYIVVG----R----GN------
+UniRef90_A0A2Z2CKG2/395-491            -YSLCA-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_Q8QSF1/497-573                TYGMCT-GKFSFAKNPADTGHGTVVIELSY-SG-S-DGPCKIPIVS-VASLNDMTPVGRLVTVNP-F---V---A---TSSAN--S---K-V----L-VEMEP---------------------------
+UniRef90_H9CH24/592-676                TYVTCAQ-AFTFAKRPVDTGHGTVVFQVSY-AG-TDA-PCKIPVA--VTDKPNGEHVGRLVTAHP-F---I--AK---Q---N--E---K-A----V-VEVEPPFGDSYIEIG----A------------
+UniRef90_A0A6G6AH54/593-674            TYGMCTE-KFSFAKNPADTGHGTVVLELQY-TG-S-DGPCKIPISI-VASLSDLTPIGRMVTANP-Y---VASSE---A---N--A---K-V----L-VEMEPPFGDS----------------------
+UniRef90_Q32ZD7/586-677                TYAMCKG-TFAFAQTPVDTGHGTIVAELTY-TG-T-DGPCKIPISM-TADLRDMTPIGRLVTVNP-I---I---P---S---S--A---K-SQ-KIL-VELEPPFGSSFILVG----Q----ENNQ----
+UniRef90_A0A6B9CTP3/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQI-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_Q91KY1/183-271                --------GLSFTKTPADTGHGTVVMQVKV-TK-N-T-PCRLTAIA-SDDASGRVNRGTLVTSNP-V---A---N---S--AN--D---E-V----L-IEINPPYGESYLIAGVGDDK----LVYQWFQ-
+UniRef90_A0A172HB04/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_Q91KZ0/183-271                TYLMC-KDKIAFAKNPVDTGHGTIVTEVQY-AG-S-DGPCRIPITM-TENLHDLTPIGRLVTVNP-F---V---P---S---S--E---T-AQ-KIL-IELEPPFGTSFILVG----T----G-------
+UniRef90_M4VN61/384-471                TYHMC-KGAFAFTKTPSDTGHGTAVVELTY-SG-V-DGPCRIPILI-TTSLSNVEPVGRMVTVNP-I---V---T---T---S--STQKT-T----M-IEVEPPFGDSYIIVG----S------------
+UniRef90_A0A5J6REC1/439-521            --KXCT-DKMSFVKNPTDTGHGTAVMQVKV-PK-G-A-PCRIPVMV-ADDLTAAVNKGILVTVNP-I---A---S---T---N--D--DE-V----L-IEVNPPFGDSYIIVG----T------------
+UniRef90_A0A1I9QNE9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_Q91KX7/181-267                -YSLCT-AAFTFTKVPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIG----V------------
+UniRef90_A0A290Y5L2/587-671            TYATCEGT-FTFEKIPTDTGHGTVVMEVASHDS-V-M-PCRVVASF-VDPDGKSLGGR-MITTNP-I---L---Q---S---T-TK---T-A----V-IEMEPPFGASHVALG----P------------
+UniRef90_K9J8W9/591-679                TYGMCAN-AFQFSKNPADTGHGTVVVELQY-TG-NDG-PCKVPISS-TASLNDLTPVGRLVTVNP-F---V---SATTA---N--S---K-V----I-IELEPPFGDSYIVVG----R----G-------
+UniRef90_A0A5J6REE1/574-667            -YKICT-DKMXFVKNPTDTGHGTVVMQVKV-PK-G-X-PCRIPVIV-ADDLTAAINKGILVTVNP-I---A---S---T---N--D---DEV----L-IEVXPTFGDSYIIVG----RGDSRLTYQWH--
+UniRef90_M4W688/587-673                TYAMC-KGSFAFTKTPADTGHGTVMVELSY-SG-T-DGPCRIPLFI-SQSLSNIEPVGRLVTVNP-I---VSTSE---T---Q--K---K-V----M-IEVEPPFGDSFIIAG-----------------
+UniRef90_A0A076MNV1/588-674            TYHMC-KGSFAFTKTPSDTGHGTVVIELTY-SG-T-DGPCRVPISM-TTSLSNVEPVGRMVTVNP-I---V---T---S---A--STQKT-I----M-IEVEPPFGDSYIIAG-----------------
+UniRef90_M4VRU9/384-470                TYHMC-KGSFAFTKTPSDTGHGTVLLELTY-SG-S-DGPCRVPISM-SVSLSNIEPVGRMVTVNP-I---V---L---S---S--S---P-QK-TIM-IEVEPPFGDSFIIAG-----------------
+UniRef90_Q32ZD4/586-674                TYLMC-KDKFAFAKNPVDTGHGTIVTEVQY-AG-S-DGPCRIPITM-TENLHDLTPIGRLVTVNP-F---V---P---S---S--E---T-AQ-KIL-IELEPPFGTSFILVG----T----G-------
+UniRef90_Q91KX8/183-260                --------GLSFTKTPADTGHGTVVMQVKV-TK-N-A-PCRLTAIA-ADDASGKVNRGTLVTSNP-I---A---N--AA---N--D---E-V----L-IEINPPFGESYLIVG----T------------
+UniRef90_A0A0C4PLV9/582-671            TYHMCAKS-FALKKDLADTGHGTVVMELTY-KG-S-DVPCRVPITI-SRSPSDGEMVGRMVSVNP-L---A---M---T---A--S---S-V----FMVEVEPPYGDSYIIIG----S----TDNK----
+UniRef90_Q32ZE1/591-687                -YSLCT-AAFTFTKVPAETLHGTVTVEVQY-AG-T-DGPCKIPVQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGVGDKK----ITHHWH--
+UniRef90_A0A1V0E2D1/595-691            -YSLCT-AAFTFTKIPAETXHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_C8XPA9/566-650                TYTNCR-GGLSFTKTPTDTGHGTVVMQVKV-TR-G-A-PCRLTAIA-ADDASGHVNRGSLVTSNP-I---A---N--AN---N--D---E-V----L-IEINPPYGLSYLIVG----T------------
+UniRef90_Q91KY8/186-271                TYAQCTG-SFKMEKSPADTGHGTVVLDISY-QG-S-EAPCKVPIVI-TPNLAEIEPVGRLVSAHP-V---V---T---G--KN--V---R-T----M-IEVEPPYGDSYIIIG----T------------
+UniRef90_Q32ZD9/580-674                TYAMC-RGGYSFSKTPVTSGHQTVLMKVKV-SK-G-T-PCRIPVTM-SDSLTVTKNQGVIVTTNP-I---A---F---D---A--N---E-V----L-IEVIPPFGDSHIIIG----NGEDRLTHRWHQ-
+UniRef90_A0A076MKM1/588-675            TYHMC-KGAFAFTKTPSDTGHGTAVVELTY-SG-V-DGPCRIPILI-TTSLSNVEPVGRMVTVNP-I---V---T---T---S--STQKT-T----M-IEVEPPFGDSYIIVG----S------------
+UniRef90_A0A166XWC3/574-670            -YSLCN-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_UPI00080734F0/591-676         TYSLCTE-MFTFSKRPVDTGHGTVVFQVSY-AG-NDA-PCKIPVAV-TEKPN-GEPTGRLITAHP-I---I--LK---K---D--D---R-A----V-VEVEPPFGNSYIEIG----T----A-------
+UniRef90_A0A678Z4G9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A142FH78/588-684            -YSLCN-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A166XWW1/595-691            -YSLCN-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EVI6/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_UPI0008073BB1/598-682         TYLMC-KQAFTFEKRPVATNHGTVIFQVKY-ANAD-A-PCRVPVAIKELHGAPIVGG--LVSYHPIV---L---K---Q---N--D---V-V----T-IEIEPPFGDSVIEVG----D------------
+UniRef90_A0A2Z2ETR2/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EWP5/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A5K1KBB1/503-599            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2R4RPR7/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A7S6TB50/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_V9IUD6/111-195                TYSMCKR-GMSFVKQPVETDHGTAVMQIKV-TT-G-A-PCRIPVIA-ADSMAGTENRGSVITTNP-I---A--AS---N---N--D---E-V----L-VEISPPFGESYIIVG----N------------
+UniRef90_A0A678Z0F5/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2I9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2E3/507-603            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A678Z803/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A7U3NF70/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A7U3RUS7/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1D9C0W4/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A166XW58/515-611            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A7U3NEV9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EVI9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2G4/507-603            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGXGEKK----ITHHWH--
+UniRef90_A0A1D9C0X8/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2ESX2/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2ESY4/511-607            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A3S9W5R8/515-611            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A678Z025/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2D1AHM0/519-615            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A678Z020/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2ET46/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1D9C0V7/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1P8D4A2/569-665            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2H8/501-597            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2R4RQD2/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2R4RQF9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2I7/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2D0ZYM3/576-672            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A5J6APP3/556-652            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2G8/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2F2Q6/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2E0/407-503            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A088BPV6/591-676            TYSLCTE-MFTFSKRPVDTGHGTVVFQVSY-AG-NDA-PCKIPVAV-TEKPN-GEPTGRLITAHP-I---I--LK---K---D--D---R-A----V-VEVEPPFGNSYIEIG----T----A-------
+UniRef90_A0A1P8D483/585-681            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EVJ3/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2J2/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2DVT6/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2ET57/5-101              -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A678ZIK3/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EXA1/503-599            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A3G4YKZ5/511-607            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EVB3/503-599            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2D7/407-503            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQSLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A6S6PBT7/596-680            TYHQCTE-AFRFEKPPVSTGHGTVVLVVAY-TG-SDA-PCKIPVHV-T-ETPEGGHVGRMITVNP-I---V--GK---A---N--G---Q-T----L-IEVEPPFGESYIQIG----G------------
+UniRef90_A0A1V0E2C8/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2D1A642/577-673            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_Q32ZE0/595-692                TYGQCSGT-FKMEKHPADTGHGTVVLDVSY-QG-DDA-PCKIPIVI-TSNLAEVEPVGRLVSAHP-V---I---T--AK---N--V---R-T----M-LEVEPPYGDSYIVIGVGDGR----LKQHWFKK
+UniRef90_A0A1V0E2C7/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2G9/507-603            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2ESG9/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A5A4N749/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A3R5URB6/591-687            TYGVCSKA-FKFLGTPADTGHGTVVLELQY-TG-T-DGPCKVPISS-VASLNDLTPVGRLVTXXX-XXXXA---T---A---N--A---K-V----L-IELEPPFGDSYIVVGRGEQQ----INHHW---
+UniRef90_A0A1V0E2F2/507-603            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A678Z084/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2ESF1/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2D1AJV0/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1V0E2I8/506-602            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_Q91KY7/188-284                -YALCTG-AFTFARTPSETIHGTATVELQY-AG-EDG-PCKVPIVI-TSDTNSMASTGRLITANP-V---V---T---E---S--G---A-NS-KMM-VEIDPPFGDSYIIVGTGTTK----ITHHWH--
+UniRef90_A0A1V0E2D0/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A2Z2EVJ5/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+UniRef90_A0A1P8D481/595-691            -YSLCT-AAFTFTKIPAETLHGTVTVEVQY-AG-T-DGPCKVPAQM-AVDMQTLTPVGRLITANP-V---I---T---ESTEN--S---K-M----M-LELDPPFGDSYIVIGV--GEK--KITHHWH--
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.x.x.xxxxxxxx.xxxxxxxxxxxxxxxxxx.x...x...x...x...x..x...x.x....x.xxxxxxxxxxxxxxx....x....xxxxxxxx
+//

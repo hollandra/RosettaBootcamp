@@ -1,0 +1,43 @@
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+python: can't open file '/users/3/holla653/Code/RosettaBootcamp/scripts/proteinMPNN/%PROTEINMPNN_PATH/helper_scripts/parse_multiple_chains.py': [Errno 2] No such file or directory
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+python: can't open file '/users/3/holla653/Code/RosettaBootcamp/scripts/proteinMPNN/%PROTEINMPNN_PATH/folder_with_pdbs/assign_fixed_chains.py': [Errno 2] No such file or directory
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+python: can't open file '/users/3/holla653/Code/RosettaBootcamp/scripts/proteinMPNN/%PROTEINMPNN_PATH/folder_with_pdbs/make_fixed_positions_dict.py': [Errno 2] No such file or directory
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+usage: protein_mpnn_run.py [-h] [--suppress_print SUPPRESS_PRINT] [--ca_only]
+                           [--path_to_model_weights PATH_TO_MODEL_WEIGHTS]
+                           [--model_name MODEL_NAME] [--use_soluble_model]
+                           [--seed SEED] [--save_score SAVE_SCORE]
+                           [--save_probs SAVE_PROBS] [--score_only SCORE_ONLY]
+                           [--path_to_fasta PATH_TO_FASTA]
+                           [--conditional_probs_only CONDITIONAL_PROBS_ONLY]
+                           [--conditional_probs_only_backbone CONDITIONAL_PROBS_ONLY_BACKBONE]
+                           [--unconditional_probs_only UNCONDITIONAL_PROBS_ONLY]
+                           [--backbone_noise BACKBONE_NOISE]
+                           [--num_seq_per_target NUM_SEQ_PER_TARGET]
+                           [--batch_size BATCH_SIZE] [--max_length MAX_LENGTH]
+                           [--sampling_temp SAMPLING_TEMP]
+                           [--out_folder OUT_FOLDER] [--pdb_path PDB_PATH]
+                           [--pdb_path_chains PDB_PATH_CHAINS]
+                           [--jsonl_path JSONL_PATH]
+                           [--chain_id_jsonl CHAIN_ID_JSONL]
+                           [--fixed_positions_jsonl FIXED_POSITIONS_JSONL]
+                           [--omit_AAs OMIT_AAS]
+                           [--bias_AA_jsonl BIAS_AA_JSONL]
+                           [--bias_by_res_jsonl BIAS_BY_RES_JSONL]
+                           [--omit_AA_jsonl OMIT_AA_JSONL]
+                           [--pssm_jsonl PSSM_JSONL] [--pssm_multi PSSM_MULTI]
+                           [--pssm_threshold PSSM_THRESHOLD]
+                           [--pssm_log_odds_flag PSSM_LOG_ODDS_FLAG]
+                           [--pssm_bias_flag PSSM_BIAS_FLAG]
+                           [--tied_positions_jsonl TIED_POSITIONS_JSONL]
+protein_mpnn_run.py: error: argument --pdb_path: expected one argument

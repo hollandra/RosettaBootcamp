@@ -32,7 +32,6 @@ for output_number in range(1, 4):
         num_sampling_steps=100,
         num_diffusion_samples=1,
         seed=seed,
-        lm_dropout=0.1
     )
 
     output_filename = f"MYS_SEQ_{output_number}.cif"

@@ -1,0 +1,44 @@
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+python: can't open file '/users/3/holla653/Code/RosettaBootcamp/scripts/proteinMPNN/%PROTEINMPNN_PATH/helper_scripts/parse_multiple_chains.py': [Errno 2] No such file or directory
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+python: can't open file '/users/3/holla653/Code/RosettaBootcamp/scripts/proteinMPNN/%PROTEINMPNN_PATH/folder_with_pdbs/assign_fixed_chains.py': [Errno 2] No such file or directory
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+python: can't open file '/users/3/holla653/Code/RosettaBootcamp/scripts/proteinMPNN/%PROTEINMPNN_PATH/folder_with_pdbs/make_fixed_positions_dict.py': [Errno 2] No such file or directory
+ERROR: ld.so: object 'libdlfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libvglfaker.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+----------------------------------------
+chain_id_jsonl is NOT loaded
+----------------------------------------
+fixed_positions_jsonl is NOT loaded
+----------------------------------------
+pssm_jsonl is NOT loaded
+----------------------------------------
+omit_AA_jsonl is NOT loaded
+----------------------------------------
+bias_AA_jsonl is NOT loaded
+----------------------------------------
+tied_positions_jsonl is NOT loaded
+----------------------------------------
+bias by residue dictionary is not loaded, or not provided
+----------------------------------------
+Traceback (most recent call last):
+  File "/users/3/holla653/Code/ProteinMPNN/protein_mpnn_run.py", line 469, in <module>
+    main(args)   
+    ^^^^^^^^^^
+  File "/users/3/holla653/Code/ProteinMPNN/protein_mpnn_run.py", line 165, in main
+    pdb_dict_list = parse_PDB(args.pdb_path, ca_only=args.ca_only)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/Code/ProteinMPNN/protein_mpnn_utils.py", line 166, in parse_PDB
+    xyz, seq = parse_PDB_biounits(biounit, atoms=sidechain_atoms, chain=letter)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/Code/ProteinMPNN/protein_mpnn_utils.py", line 85, in parse_PDB_biounits
+    for line in open(x,"rb"):
+                ^^^^^^^^^^^^
+IsADirectoryError: [Errno 21] Is a directory: '/users/3/holla653/Code/RosettaBootcamp/input/proteinMPNN/HCV_input'

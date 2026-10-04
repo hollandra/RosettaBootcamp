@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Other
+setup_testing/BOLTZ_CACHE/.*

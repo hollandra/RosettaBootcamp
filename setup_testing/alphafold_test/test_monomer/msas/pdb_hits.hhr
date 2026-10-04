@@ -1,0 +1,188 @@
+Query         test 
+Match_columns 78
+No_of_seqs    103 out of 1906
+Neff          3.67944
+Searched_HMMs 80799
+Date          Fri Jul 17 15:21:43 2026
+Command       /common/software/install/manual/alphafold/2.3.1-multimer/bin/hhsearch -i /tmp/tmp3zzaip_f/query.a3m -o /tmp/tmp3zzaip_f/output.hhr -maxseq 1000000 -d /common/software/install/manual/alphafold/data_dir_2.3.1-multimer/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4LNS_A Asparagine synthetase a  98.3 1.9E-09 2.4E-14   83.7   0.0   77    2-78      6-82  (351)
+  2 11AS_B ASPARAGINE SYNTHETASE,   98.0 1.2E-08 1.5E-13   77.9   0.0   78    1-78      1-78  (330)
+  3 12AS_A ASPARAGINE SYNTHETASE,   98.0 1.2E-08 1.5E-13   77.9   0.0   78    1-78      1-78  (330)
+  4 4E1P_B Protein lsr2; anti-para  66.1     4.5 5.6E-05   25.7   0.0   18   53-73     21-38  (61)
+  5 4E1R_A Protein lsr2; anti-para  58.7     7.6 9.4E-05   26.8   0.0   18   53-73     46-63  (86)
+  6 4E1R_B Protein lsr2; anti-para  57.2     8.4  0.0001   26.6   0.0   18   53-73     46-63  (86)
+  7 5DOK_A Telomerase associated p  28.5      49 0.00061   25.9   0.0   21   21-41    151-171 (204)
+  8 5DOK_B Telomerase associated p  28.5      49 0.00061   25.9   0.0   21   21-41    151-171 (204)
+  9 5DFN_B telomerase P45C; Telome  28.0      51 0.00063   25.9   0.0   21   21-41    161-181 (214)
+ 10 3FXT_A Nucleoside diphosphate-  20.9      85  0.0011   22.2   0.0    9   27-35     32-40  (113)
+ 11 4YBB_C0 Ribosome; Protein bios  20.3      90  0.0011   18.8   0.0   14   26-39     25-38  (58)
+ 12 5J8A_C0 30S ribosomal protein   20.3      90  0.0011   18.8   0.0   14   26-39     25-38  (58)
+
+No 1
+>4LNS_A Asparagine synthetase a (E.C.6.3.1.1); Asparagine synthetase A, LIGASE; 2.2A {Trypanosoma brucei brucei}
+Probab=98.26  E-value=1.9e-09  Score=83.67  Aligned_cols=77  Identities=69%  Similarity=0.966  Sum_probs=62.4  Template_Neff=7.300
+
+Q test              2 KTAYIAKQRQISFVKSHFSRQLEERLGLIEVQAPILSRVGDGTQDNLSGAEKAVQVKVKALPDAQFEVVHSLAKWKR   78 (78)
+Q Consensus         2 k~~~~~tq~aI~~iK~~F~~~L~~~LnL~rVsAPLfv~~~tGlnDdLnG~E~pV~F~~~~~~~~~~EIVhSLAKWKR   78 (78)
+                      +.+++.++++|..||++|.+.+.+++||+||+||++++..+|++++++|.++||+|++.++++.++||++|||+|+|
+T Consensus         6 ~~~~~~~~~~i~~ir~~~~~~~~~~~gf~EV~tP~l~~~~~~~~~~~eg~~~~~~F~~~~~~~~~~~L~~S~ql~lk   82 (351)
+T 4LNS_A            6 YSSYVLLQEQILTVKRSFSEALEKELNLVEVRAPILFRVGDGTQDNLSGFEKAVQVPVKAIPNASFEVVHSLAKWKR   82 (351)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTEEECCCCSEEETTSSSCC-------CCEEECTTSSSCEEEECSCCHHHHH
+T ss_pred             hhhHHHHHHHHHHHHHHHHHHHHHHcCCEEEeCCEEEecCCCCCcccCCcccceEeeccCCCCCeEEEEechHHHHH
+Confidence            67889999999999999998888899999999999999888888888888999888877543667999999999986
+
+
+No 2
+>11AS_B ASPARAGINE SYNTHETASE, L-ASPARAGINE; LIGASE, ASPARAGINE SYNTHETASE, NITROGEN FIXATION; HET: ASN; 2.5A {Escherichia coli K12} SCOP: d.104.1.1
+Probab=98.04  E-value=1.2e-08  Score=77.93  Aligned_cols=78  Identities=100%  Similarity=1.337  Sum_probs=67.2  Template_Neff=7.800
+
+Q test              1 MKTAYIAKQRQISFVKSHFSRQLEERLGLIEVQAPILSRVGDGTQDNLSGAEKAVQVKVKALPDAQFEVVHSLAKWKR   78 (78)
+Q Consensus         1 mk~~~~~tq~aI~~iK~~F~~~L~~~LnL~rVsAPLfv~~~tGlnDdLnG~E~pV~F~~~~~~~~~~EIVhSLAKWKR   78 (78)
+                      |+++++.++++|..||++|.+.+.+++||+||+||++++..++++++|+|+.++|+|++.++++.++||++|||+|+|
+T Consensus         1 ~~~~~~~~~~~i~~ir~~~~~~l~~~~gf~eV~tP~l~~~~~~~~~~~e~~~~~~~F~~~~~~~~~~~L~~S~ql~~k   78 (330)
+T 11AS_B            1 MKTAYIAKQRQISFVKSHFSRQLEERLGLIEVQAPILSRVGDGTQDNLSGAEKAVQVKVKALPDAQFEVVHSLAKWKR   78 (330)
+T ss_dssp             ---CHHHHHHHHHHHHHHHHHHHHHSSCEEECCCCSEEETTSSCSCCTTSCCCCCCCCCTTCCSCCEEECSCCTTHHH
+T ss_pred             CcchHHHHHHHHHHHHHHHHHHHHHHhCCEEEeCCEEEecCCCcccccCCcccceEEEeccCCCCeEEEEeCHHHHHH
+Confidence            567899999999999999999898899999999999999988888888888999888876543567999999999985
+
+
+No 3
+>12AS_A ASPARAGINE SYNTHETASE, L-ASPARAGINE, ADENOSINE MONOPHOSPHATE; LIGASE, ASPARAGINE SYNTHETASE, NITROGEN FIXATION; HET: AMP, ASN; 2.2A {Escherichia coli K12} SCOP: d.104.1.1
+Probab=98.04  E-value=1.2e-08  Score=77.93  Aligned_cols=78  Identities=100%  Similarity=1.337  Sum_probs=67.2  Template_Neff=7.800
+
+Q test              1 MKTAYIAKQRQISFVKSHFSRQLEERLGLIEVQAPILSRVGDGTQDNLSGAEKAVQVKVKALPDAQFEVVHSLAKWKR   78 (78)
+Q Consensus         1 mk~~~~~tq~aI~~iK~~F~~~L~~~LnL~rVsAPLfv~~~tGlnDdLnG~E~pV~F~~~~~~~~~~EIVhSLAKWKR   78 (78)
+                      |+++++.++++|..||++|.+.+.+++||+||+||++++..++++++|+|+.++|+|++.++++.++||++|||+|+|
+T Consensus         1 ~~~~~~~~~~~i~~ir~~~~~~l~~~~gf~eV~tP~l~~~~~~~~~~~e~~~~~~~F~~~~~~~~~~~L~~S~ql~~k   78 (330)
+T 12AS_A            1 MKTAYIAKQRQISFVKSHFSRQLEERLGLIEVQAPILSRVGDGTQDNLSGAEKAVQVKVKALPDAQFEVVHSLAKWKR   78 (330)
+T ss_dssp             ---CHHHHHHHHHHHHHHHHHHHHHHHCEEECCCCSEEETTSSCSCCTTTTCCCCEECCSSSTTCCEEECSCCTTHHH
+T ss_pred             CcchHHHHHHHHHHHHHHHHHHHHHHhCCEEEeCCEEEecCCCcccccCCcccceEEEeccCCCCeEEEEeCHHHHHH
+Confidence            567899999999999999999898899999999999999988888888888999888876543567999999999985
+
+
+No 4
+>4E1P_B Protein lsr2; anti-parallel beta sheet, dimer, DNA; 1.728A {Mycobacterium tuberculosis}
+Probab=66.12  E-value=4.5  Score=25.68  Aligned_cols=18  Identities=17%  Similarity=0.303  Sum_probs=7.6  Template_Neff=5.500
+
+Q test             53 KAVQVKVKALPDAQFEVVHSL   73 (78)
+Q Consensus        53 ~pV~F~~~~~~~~~~EIVhSL   73 (78)
+                      ..|.|.+.   |..|.+=.|+
+T Consensus        21 ~tv~F~~d---G~~YeIDLs~   38 (61)
+T 4E1P_B           21 ETVEFGLD---GVTYEIDLST   38 (61)
+T ss_dssp             EEEEEEET---TEEEEEEECH
+T ss_pred             eEEEEEEc---CceEEEeCCH
+Confidence            34444443   4444444443
+
+
+No 5
+>4E1R_A Protein lsr2; anti-parallel beta sheet, dimer, DNA; 2.041A {Mycobacterium tuberculosis}
+Probab=58.73  E-value=7.6  Score=26.77  Aligned_cols=18  Identities=17%  Similarity=0.303  Sum_probs=8.2  Template_Neff=4.200
+
+Q test             53 KAVQVKVKALPDAQFEVVHSL   73 (78)
+Q Consensus        53 ~pV~F~~~~~~~~~~EIVhSL   73 (78)
+                      ..|.|.+.   |..+.+=.|+
+T Consensus        46 ~TV~Fs~d---G~~YEIDLs~   63 (86)
+T 4E1R_A           46 ETVEFGLD---GVTYEIDLST   63 (86)
+T ss_dssp             EEEEEEET---TEEEEEEECH
+T ss_pred             eEEEEEEC---CeeEEEeCCH
+Confidence            45445543   4444444443
+
+
+No 6
+>4E1R_B Protein lsr2; anti-parallel beta sheet, dimer, DNA; 2.041A {Mycobacterium tuberculosis}
+Probab=57.20  E-value=8.4  Score=26.56  Aligned_cols=18  Identities=17%  Similarity=0.303  Sum_probs=8.1  Template_Neff=4.200
+
+Q test             53 KAVQVKVKALPDAQFEVVHSL   73 (78)
+Q Consensus        53 ~pV~F~~~~~~~~~~EIVhSL   73 (78)
+                      ..|.|.+.   |..+.+=.|+
+T Consensus        46 ~TV~Fs~d---G~~YEIDLs~   63 (86)
+T 4E1R_B           46 ETVEFGLD---GVTYEIDLST   63 (86)
+T ss_dssp             EEEEEEET---TEEEEEEECH
+T ss_pred             EEEEEEEc---CeeeEEeCCH
+Confidence            45445543   4444444443
+
+
+No 7
+>5DOK_A Telomerase associated protein p45; telomerase, WH motif, Tetrahymena, DNA; 2.3A {Tetrahymena thermophila}
+Probab=28.50  E-value=49  Score=25.86  Aligned_cols=21  Identities=24%  Similarity=0.411  Sum_probs=14.2  Template_Neff=1.000
+
+Q test             21 RQLEERLGLIEVQAPILSRVG   41 (78)
+Q Consensus        21 ~~L~~~LnL~rVsAPLfv~~~   41 (78)
+                      ..+-...++..|.-|.++.+.
+T Consensus       151 dkltkalnlqqisyplisesy  171 (204)
+T 5DOK_A          151 DKLTKALNLQQISYPLISESY  171 (204)
+T ss_dssp             HHHHHHHCCTTTSSCSCCHHH
+T ss_pred             HHHHHhhCccccCccccCHHH
+Confidence            334446778888888887644
+
+
+No 8
+>5DOK_B Telomerase associated protein p45; telomerase, WH motif, Tetrahymena, DNA; 2.3A {Tetrahymena thermophila}
+Probab=28.50  E-value=49  Score=25.86  Aligned_cols=21  Identities=24%  Similarity=0.411  Sum_probs=14.2  Template_Neff=1.000
+
+Q test             21 RQLEERLGLIEVQAPILSRVG   41 (78)
+Q Consensus        21 ~~L~~~LnL~rVsAPLfv~~~   41 (78)
+                      ..+-...++..|.-|.++.+.
+T Consensus       151 dkltkalnlqqisyplisesy  171 (204)
+T 5DOK_B          151 DKLTKALNLQQISYPLISESY  171 (204)
+T ss_dssp             HHHHHHHCCTTTSSCSCCHHH
+T ss_pred             HHHHHhhCccccCccccCHHH
+Confidence            334446778888888887644
+
+
+No 9
+>5DFN_B telomerase P45C; Telomerase, P45, CST complex, Stn1; 2.382A {Tetrahymena thermophila}
+Probab=28.01  E-value=51  Score=25.94  Aligned_cols=21  Identities=24%  Similarity=0.411  Sum_probs=14.2  Template_Neff=1.000
+
+Q test             21 RQLEERLGLIEVQAPILSRVG   41 (78)
+Q Consensus        21 ~~L~~~LnL~rVsAPLfv~~~   41 (78)
+                      ..+-...++..|.-|.++.+.
+T Consensus       161 dkltkalnlqqisyplisesy  181 (214)
+T 5DFN_B          161 DKLTKALNLQQISYPLISESY  181 (214)
+T ss_dssp             HHHHHHHTCTTSSSCSCCHHH
+T ss_pred             HHHHHhhCccccCccccCHHH
+Confidence            334446778888888887654
+
+
+No 10
+>3FXT_A Nucleoside diphosphate-linked moiety X motif; NUDIX, NUDT6, GFG, FGF2AS, Antisense; HET: GOL; 2.3A {Homo sapiens}
+Probab=20.87  E-value=85  Score=22.17  Aligned_cols=9  Identities=33%  Similarity=0.460  Sum_probs=3.8  Template_Neff=5.800
+
+Q test             27 LGLIEVQAP   35 (78)
+Q Consensus        27 LnL~rVsAP   35 (78)
+                      .|=+.|++.
+T Consensus        32 y~GV~V~~~   40 (113)
+T 3FXT_A           32 FGGISVRLA   40 (113)
+T ss_dssp             TSCEEEEHH
+T ss_pred             CCCEEEEch
+Confidence            344444443
+
+
+No 11
+>4YBB_C0 Ribosome; Protein biosynthesis, ribosomes, RNA, transfer; HET: 5MC, PSU, MEQ, OMC, OMU, OMG, 2MA, 1PE, UR3, H2U, 3TD, EDO, SPD, GUN, 4OC, PEG, MPD, G7M, PUT, 6MZ, PG4, PGE, MA6, 4D4, 1MG, 5MU, 2MG, D2T, ACY, MG; 2.1A {Escherichia coli K-12}
+Probab=20.25  E-value=90  Score=18.83  Aligned_cols=14  Identities=21%  Similarity=0.323  Sum_probs=6.7  Template_Neff=7.200
+
+Q test             26 RLGLIEVQAPILSR   39 (78)
+Q Consensus        26 ~LnL~rVsAPLfv~   39 (78)
+                      ..|+..+....+.+
+T Consensus        25 ~LgL~k~~~~v~~~   38 (58)
+T 4YBB_C0          25 GLGLRRIGHTVERE   38 (58)
+T ss_pred             HcCCCcCCCeEEeC
+Confidence            34555554444443
+
+
+No 12
+>5J8A_C0 30S ribosomal protein S2, 30S; ribosome, resistance, negamycin, tigecycline, tetracycline; HET: 5MC, PSU, MEQ, OMC, OMU, OMG, 2MA, 1PE, UR3, H2U, 7MG, 3TD, EDO, SPD, GUN, 4OC, PEG, MPD, PUT, 6MZ, PG4, PGE, MA6, 4D4, 1MG, 5MU, 2MG, D2T, T1C, ACY, MG; 3.1A {Escherichia coli (strain K12)}
+Probab=20.25  E-value=90  Score=18.83  Aligned_cols=14  Identities=21%  Similarity=0.323  Sum_probs=6.7  Template_Neff=7.200
+
+Q test             26 RLGLIEVQAPILSR   39 (78)
+Q Consensus        26 ~LnL~rVsAPLfv~   39 (78)
+                      ..|+..+....+.+
+T Consensus        25 ~LgL~k~~~~v~~~   38 (58)
+T 5J8A_C0          25 GLGLRRIGHTVERE   38 (58)
+T ss_pred             HcCCCcCCCeEEeC
+Confidence            34555554444443
+
+

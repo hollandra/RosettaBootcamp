@@ -1,0 +1,22 @@
+I0723 18:08:23.781167 140231739860800 templates.py:857] Using precomputed obsolete pdbs /common/software/install/manual/alphafold/data_dir_2.3.1-multimer/pdb_mmcif/obsolete.dat.
+I0723 18:08:24.190526 140231739860800 xla_bridge.py:353] Unable to initialize backend 'tpu_driver': NOT_FOUND: Unable to find driver in registry given worker: 
+I0723 18:08:24.377602 140231739860800 xla_bridge.py:353] Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: Interpreter CUDA Host
+I0723 18:08:24.377936 140231739860800 xla_bridge.py:353] Unable to initialize backend 'tpu': module 'jaxlib.xla_extension' has no attribute 'get_tpu_client'
+I0723 18:08:24.378030 140231739860800 xla_bridge.py:353] Unable to initialize backend 'plugin': xla_extension has no attributes named get_plugin_device_client. Compile TensorFlow with //tensorflow/compiler/xla/python:enable_plugin_device set to true (defaults to false) to enable this.
+I0723 18:08:28.351838 140231739860800 run_alphafold.py:386] Have 25 models: ['model_1_multimer_v3_pred_0', 'model_1_multimer_v3_pred_1', 'model_1_multimer_v3_pred_2', 'model_1_multimer_v3_pred_3', 'model_1_multimer_v3_pred_4', 'model_2_multimer_v3_pred_0', 'model_2_multimer_v3_pred_1', 'model_2_multimer_v3_pred_2', 'model_2_multimer_v3_pred_3', 'model_2_multimer_v3_pred_4', 'model_3_multimer_v3_pred_0', 'model_3_multimer_v3_pred_1', 'model_3_multimer_v3_pred_2', 'model_3_multimer_v3_pred_3', 'model_3_multimer_v3_pred_4', 'model_4_multimer_v3_pred_0', 'model_4_multimer_v3_pred_1', 'model_4_multimer_v3_pred_2', 'model_4_multimer_v3_pred_3', 'model_4_multimer_v3_pred_4', 'model_5_multimer_v3_pred_0', 'model_5_multimer_v3_pred_1', 'model_5_multimer_v3_pred_2', 'model_5_multimer_v3_pred_3', 'model_5_multimer_v3_pred_4']
+I0723 18:08:28.352014 140231739860800 run_alphafold.py:403] Using random seed 87531473345883121 for the data pipeline
+I0723 18:08:28.352262 140231739860800 run_alphafold.py:161] Predicting sequence_9-1
+Traceback (most recent call last):
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/run_alphafold.py", line 432, in <module>
+    app.run(main)
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/lib/python3.8/site-packages/absl/app.py", line 312, in run
+    _run_main(main, args)
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/lib/python3.8/site-packages/absl/app.py", line 258, in _run_main
+    sys.exit(main(argv))
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/run_alphafold.py", line 408, in main
+    predict_structure(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/run_alphafold.py", line 172, in predict_structure
+    feature_dict = data_pipeline.process(
+  File "/common/software/install/manual/alphafold/2.3.1-multimer/alphafold-2.3.1/alphafold/data/pipeline_multimer.py", line 244, in process
+    with open(input_fasta_path) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '[/users/3/holla653/Code/RosettaBootcamp/output/binder_project/chosen_sequences/sequence_9-1'

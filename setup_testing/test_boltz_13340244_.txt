@@ -1,0 +1,37 @@
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+Found 0 existing processed inputs, skipping them.
+Traceback (most recent call last):
+  File "/users/3/holla653/.conda/envs/boltz/bin/boltz", line 6, in <module>
+    sys.exit(cli())
+             ^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/main.py", line 1162, in predict
+    process_inputs(
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/lightning_utilities/core/rank_zero.py", line 42, in wrapped_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/main.py", line 766, in process_inputs
+    ccd = load_canonicals(mol_dir)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/mol.py", line 56, in load_canonicals
+    return load_molecules(moldir, const.canonical_tokens)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/mol.py", line 36, in load_molecules
+    raise ValueError(msg)
+ValueError: CCD component ALA not found!

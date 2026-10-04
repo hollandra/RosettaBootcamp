@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+#=GS 1MBN_1|Chain            DE A|MYOGLOBIN|Physeter catodon (9755)
+#=GS MGYP001095023287/1-54   DE [subseq from] FL=1
+#=GS MGYP002753375651/14-69  DE [subseq from] FL=0
+#=GS MGYP001827408655/38-70  DE [subseq from] FL=0
+#=GS MGYP001827408655/66-98  DE [subseq from] FL=0
+#=GS MGYP001827408655/94-126 DE [subseq from] FL=0
+#=GS MGYP003346420963/26-158 DE [subseq from] FL=1
+
+1MBN_1|Chain                    VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLKTEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAE---LKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGD-FGADAQGAMNKALELFRKDIAAKYKELGYQG
+MGYP001095023287/1-54           ------------------------------------------------------MKASEDLKKHGATVLTALGGILKKKGHHEAE---IKPLAQSHATKHKIPVKYLEVGG----------------------------------------------
+MGYP002753375651/14-69          ----------------------------------------------------------------------------------------LAP-GLSHPGDHFLSSPSLQFISECIIQVLQSKHPGD-FGADAQGAMNKALELFRKDM-----------
+MGYP001827408655/38-70          --------------------------------------------------------AKQQLNRYGPPFLRALGAIPKSNGHHKGA---KKQL-----------------------------------------------------------------
+MGYP001827408655/66-98          --------------------------------------------------------AKKQLNRYGPPFLRALGAIPTSNGHHKGA---KKQL-----------------------------------------------------------------
+MGYP001827408655/94-126         --------------------------------------------------------AKKQLNRFGPRFLRALGAIPKSNGHHKGA---TKQL-----------------------------------------------------------------
+MGYP003346420963/26-158         ----KEKELVQKSWSLVKTDLRGNGTDLFLLLFKEYPEAK-SFFPFRDVPDE-DLPTNGKFKAHAVTVMYSIGSLIDHLNENEILIGLLQKTGESHG-KRSIPETAYWELKKVILLLLKNKLKSDVFTKEVEAAWDKTLT-----------------
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

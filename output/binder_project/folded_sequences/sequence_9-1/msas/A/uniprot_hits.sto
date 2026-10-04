@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+#=GF ID chain_A-i1
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS tr|A0A846G2D6|A0A846G2D6_9CYAN/555-652   DE [subseq from] NB-ARC domain-containing protein OS=Okeania sp. SIO2B3 OX=2607784 GN=F6K15_06350 PE=4 SV=1
+#=GS tr|A0A846G2D6|A0A846G2D6_9CYAN/1025-1081 DE [subseq from] NB-ARC domain-containing protein OS=Okeania sp. SIO2B3 OX=2607784 GN=F6K15_06350 PE=4 SV=1
+#=GS tr|A0A6P0HXD2|A0A6P0HXD2_9CYAN/896-923   DE [subseq from] NB-ARC domain-containing protein OS=Okeania sp. SIO3H1 OX=2607810 GN=F6K48_11320 PE=4 SV=1
+#=GS tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/741-793   DE [subseq from] Regulatory protein OS=Trichormus variabilis NIES-23 OX=1973479 GN=NIES23_00290 PE=3 SV=1
+#=GS tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/833-880   DE [subseq from] Regulatory protein OS=Trichormus variabilis NIES-23 OX=1973479 GN=NIES23_00290 PE=3 SV=1
+#=GS tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/893-987   DE [subseq from] Regulatory protein OS=Trichormus variabilis NIES-23 OX=1973479 GN=NIES23_00290 PE=3 SV=1
+#=GS tr|Q8YWH7|Q8YWH7_NOSS1/741-793           DE [subseq from] Regulatory protein OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=all1636 PE=3 SV=1
+#=GS tr|Q8YWH7|Q8YWH7_NOSS1/833-880           DE [subseq from] Regulatory protein OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=all1636 PE=3 SV=1
+#=GS tr|Q8YWH7|Q8YWH7_NOSS1/893-987           DE [subseq from] Regulatory protein OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=all1636 PE=3 SV=1
+#=GS tr|A0A6M0FB44|A0A6M0FB44_9CYAN/896-923   DE [subseq from] NB-ARC domain-containing protein OS=Okeania sp. SIO1I7 OX=2607772 GN=F6K01_01640 PE=4 SV=1
+
+chain_A                                          SELEEKAEKYKKEVIEEFKEKLPELLKEGEKSG--DEEEFLKTLKQYIDGYAYKLQVLCSELTPEEQRRLGLE-VKIELLKYAEEEFKKLGNEKLAE--ELKKEREKAQKELAELEAK
+tr|A0A846G2D6|A0A846G2D6_9CYAN/555-652           -------EKYRAEVLIAWAEKFPEILPEALAAALKIQSEFLRA--QVLSALAEKLPKLLPEALAAA-RQIQYEGYRAQVLRALADKFPEILPEALAAARQICSEESRA----------
+#=GR tr|A0A846G2D6|A0A846G2D6_9CYAN/555-652   PP .......8********************987762257888875..89999*****99988876544.44444426788888888888888888776411444444444..........
+tr|A0A846G2D6|A0A846G2D6_9CYAN/1025-1081         -----QSEKYRAEVLSALADKFPEILPEALAAA--PQIQYEGYRAEVLSAWAEKL---TPEILPEAM---------------------------------------------------
+#=GR tr|A0A846G2D6|A0A846G2D6_9CYAN/1025-1081 PP .....689********************99999..99998888888888888776...456666544...................................................
+tr|A0A6P0HXD2|A0A6P0HXD2_9CYAN/896-923           -----QSEKYRAEVLSALAEKLPEILPEAVAAA-------------------------------------------------------------------------------------
+#=GR tr|A0A6P0HXD2|A0A6P0HXD2_9CYAN/896-923   PP .....68*******************9976554.....................................................................................
+tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/741-793           -------EANRAEVLGSLSDKLPELLPEALAAA--REIEFESSRAYILSSLADKLPELLPEA--------------------------------------------------------
+#=GR tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/741-793   PP .......556789********************..*****9888777889999997776654........................................................
+tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/833-880           -----EDEKYRAEALSSLADKLPELLPEALAAA--REIEDEKYRNDALSSLANKL---------------------------------------------------------------
+#=GR tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/833-880   PP .....569********************99888..88777776666666666665...............................................................
+tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/893-987           ---EIKDEKYRAYILSSLAAKLPELLPEALAAA--REIQFESSRAQALRSLADKFP----ELLPEA---LAAA-IEIQDEEYRAQALRSLA-DKLPP--ELLPEVVAATRE-------
+#=GR tr|A0A1Z4KEC0|A0A1Z4KEC0_ANAVA/893-987   PP ...5689**************************..*******99999999998875....667764...4445.55555577777777776.46777..776666666555.......
+tr|Q8YWH7|Q8YWH7_NOSS1/741-793                   -------EANRAEVLGSLSDKLPELLPEALAAA--REIEFESSRAYILSSLADKLPELLPEA--------------------------------------------------------
+#=GR tr|Q8YWH7|Q8YWH7_NOSS1/741-793           PP .......556789********************..*****9888777889999997776654........................................................
+tr|Q8YWH7|Q8YWH7_NOSS1/833-880                   -----EDEKYRAEALSSLADKLPELLPEALAAA--REIEDEKYRNDALSSLANKL---------------------------------------------------------------
+#=GR tr|Q8YWH7|Q8YWH7_NOSS1/833-880           PP .....569********************99888..88777776666666666665...............................................................
+tr|Q8YWH7|Q8YWH7_NOSS1/893-987                   ---EIKDEKYRAYILSSLAAKLPELLPEALAAA--REIQFESSRAQALRSLADKFP----ELLPEA---LAAA-IEIQDEEYRAQALRSLA-DKLPP--ELLPEVVAATRE-------
+#=GR tr|Q8YWH7|Q8YWH7_NOSS1/893-987           PP ...5689**************************..*******99999999998875....667764...4445.55555577777777776.46777..776666666555.......
+tr|A0A6M0FB44|A0A6M0FB44_9CYAN/896-923           -----QSEKYRAEVLSALAEKLPEILPEAVAAA-------------------------------------------------------------------------------------
+#=GR tr|A0A6M0FB44|A0A6M0FB44_9CYAN/896-923   PP .....68*******************9986554.....................................................................................
+#=GC PP_cons                                     ...56689999*****************99888..99999987878888888887788666666544444445.56666677777777777856776..665555555555.......
+#=GC RF                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx
+//

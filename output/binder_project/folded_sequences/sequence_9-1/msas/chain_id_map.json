@@ -1,0 +1,10 @@
+{
+    "A": {
+        "description": "rfd_more_backbones_9, id=1, T=0.1, seed=6, overall_confidence=0.3075, ligand_confidence=1.0000, seq_rec=0.0442",
+        "sequence": "SELEEKAEKYKKEVIEEFKEKLPELLKEGEKSGDEEEFLKTLKQYIDGYAYKLQVLCSELTPEEQRRLGLEVKIELLKYAEEEFKKLGNEKLAEELKKEREKAQKELAELEAK"
+    },
+    "B": {
+        "description": "target",
+        "sequence": "TYTMCDKTKFTWKRIPTDSGHDTVVMEVAFSGTKPCRIPVRAVAHGSPDVNVAMLMTPNPTIENNGGGFIEMQLPPGDNIIYVGELSHQWFQK"
+    }
+}

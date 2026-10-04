@@ -1,0 +1,5 @@
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Downloading the CCD data to /users/3/holla653/.boltz/mols.tar. This may take a bit of time. You may change the cache directory with the --cache flag.
+Extracting the CCD data to /users/3/holla653/.boltz/mols. This may take a bit of time. You may change the cache directory with the --cache flag.
+[2026-07-16T14:28:21.009] error: *** JOB 13346058 ON aga06 CANCELLED AT 2026-07-16T14:28:21 DUE TO TIME LIMIT ***

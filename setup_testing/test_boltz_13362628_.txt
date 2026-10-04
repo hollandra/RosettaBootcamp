@@ -1,0 +1,117 @@
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+Found 0 existing processed inputs, skipping them.
+Processing 1 inputs with 1 threads.
+  0%|          | 0/1 [00:00<?, ?it/s]Generating MSA for /users/3/holla653/Code/RosettaBootcamp/setup_testing/boltz_test/test.yaml with 1 protein entities.
+Calling MSA server for target test with 1 sequences
+MSA server URL: https://api.colabfold.com
+MSA pairing strategy: greedy
+No authentication provided for MSA server
+
+  0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+SUBMIT:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][AError while fetching result from MSA server. Retrying... (1/5)
+Error: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+Error while fetching result from MSA server. Retrying... (2/5)
+Error: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+Error while fetching result from MSA server. Retrying... (3/5)
+Error: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+Error while fetching result from MSA server. Retrying... (4/5)
+Error: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+Error while fetching result from MSA server. Retrying... (5/5)
+Error: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+Error while fetching result from MSA server. Retrying... (6/5)
+Error: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+SUBMIT:   0%|          | 0/150 [elapsed: 01:01 remaining: ?]
+Traceback (most recent call last):
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/http/client.py", line 1450, in getresponse
+    response.begin()
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/msa/mmseqs2.py", line 77, in submit
+    res = requests.post(
+          ^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/requests/adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.colabfold.com', port=443): Read timed out. (read timeout=6.02)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/main.py", line 588, in process_input
+    compute_msa(
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/main.py", line 484, in compute_msa
+    unpaired_msa = run_mmseqs2(
+                   ^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/msa/mmseqs2.py", line 201, in run_mmseqs2
+    out = submit(seqs_unique, mode, N)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/msa/mmseqs2.py", line 92, in submit
+    raise Exception(
+Exception: Too many failed attempts for the MSA generation request.
+100%|██████████| 1/1 [01:01<00:00, 61.91s/it]100%|██████████| 1/1 [01:01<00:00, 61.91s/it]
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/pytorch_lightning/trainer/connectors/logger_connector/logger_connector.py:76: Starting from v1.9.0, `tensorboardX` has been removed as a dependency of the `pytorch_lightning` package, due to potential conflicts with other packages in the ML ecosystem. For this reason, `logger=True` will use `CSVLogger` as the default logger, unless the `tensorboard` or `tensorboardX` packages are found. Please `pip install lightning[extra]` or one of them to enable TensorBoard support by default
+Failed to process /users/3/holla653/Code/RosettaBootcamp/setup_testing/boltz_test/test.yaml. Skipping. Error: Too many failed attempts for the MSA generation request..

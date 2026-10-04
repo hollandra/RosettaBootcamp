@@ -1,0 +1,22 @@
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+Found 0 existing processed inputs, skipping them.
+Processing 1 inputs with 1 threads.
+  0%|          | 0/1 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/main.py", line 549, in process_input
+    target = parse_fasta(path, ccd, mol_dir, boltz2)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/parse/fasta.py", line 138, in parse_fasta
+    return parse_boltz_schema(name, data, ccd, mol_dir, boltz2)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/boltz/data/parse/schema.py", line 1318, in parse_boltz_schema
+    raise ValueError(msg)
+ValueError: No chains parsed!
+100%|██████████| 1/1 [00:00<00:00, 12.08it/s]
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+/users/3/holla653/.conda/envs/boltz/lib/python3.12/site-packages/pytorch_lightning/trainer/connectors/logger_connector/logger_connector.py:76: Starting from v1.9.0, `tensorboardX` has been removed as a dependency of the `pytorch_lightning` package, due to potential conflicts with other packages in the ML ecosystem. For this reason, `logger=True` will use `CSVLogger` as the default logger, unless the `tensorboard` or `tensorboardX` packages are found. Please `pip install lightning[extra]` or one of them to enable TensorBoard support by default
+Failed to process /users/3/holla653/Code/RosettaBootcamp/setup_testing/boltz_test/test.fasta. Skipping. Error: No chains parsed!.

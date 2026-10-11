@@ -5,7 +5,7 @@ Code for ML & Rosetta Intro Bootcamp 2026 at Johns Hopkins University
 
 ## Flavivirus Envelope Protein Binder Project
 
-As a final capstone to the bootcamp, we broke into groups to design de novo protein binders. My group (including myself, Adaym Corbet and Dr. Amanda E. Ruiz) chose to target the [EDIII](https://www.rcsb.org/structure/7LSE) envelope protein of tick-borne encephalitis virues (TBEV), particularly the region bound by a human neutralizing antibody. The protein plays an important role in viral attachment and internalization, and Amanda is studying it as a potential antiviral target.
+As a final capstone to the bootcamp, we broke into groups to design de novo protein binders. My group (including myself, Adaym Corbet and Dr. Amanda E. Ruiz) chose to target the [EDIII](https://www.rcsb.org/structure/7LSE) envelope protein of tick-borne encephalitis virus (TBEV), particularly the region bound by a human neutralizing antibody. The protein plays an important role in viral attachment and internalization, and Amanda is studying it as a potential antiviral target.
 
 ![Image highlighting the region targeted for binding](./output/binder_design/7LSE_structure_and_target.png)
 __Image 1. Project binding target.__ EDIII (cyan). Residues targeted for binding (orange). Bound neutralizing antibody domains (green, magenta).
@@ -31,4 +31,4 @@ In order to further test the (in)effectiveness of our binders, we used the Roset
 
 __Table 1. Rosetta calculated binding energies for the binder in Image 4.__
 
-Overall, our brief (single day) attempt to design a binder for EDIII was unsuccesful. Nonetheless, the project was useful practice for understanding de novo protein.
+Overall, our brief (single day) attempt to design a binder for EDIII was unsuccesful. Nonetheless, the project was useful practice for understanding de novo protein design.

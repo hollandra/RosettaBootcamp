@@ -1,0 +1,25 @@
+[{
+ "name": "Binder fold",
+ "modelSeeds": [
+  "6"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "LAEQLAAARAELERTRAELEALRSKLTPEQLAELEKVEQAIEDHKKGGSDEKLSKLITDFVTKMMASEEASEVAVVVLRYLAALLRLTALETGSEVCLQNADLLEKAAEEIEKRNAAR",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "TYTMCDKTKFTWKRIPTDSGHDTVVMEVAFSGTKPCRIPVRAVAHGSPDVNVAMLMTPNPTIENNGGGFIEMQLPPGDNIIYVGELSHQWFQK",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
